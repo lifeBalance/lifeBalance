@@ -1,9 +1,5 @@
-<div style="position: relative">
-    <img src="https://github.com/lifeBalance/lifeBalance/blob/main/universe.gif" alt="Universe expanding"/>
-    <h2 style="position: absolute; top: 60px; left: 200px; color: white;font-family: sans-serif; font-size: 40px">Javi Rodriguez. Software Craftmanship</h2>
-</div>
-
-![Galaxy animation]()<!-- change to linkedin once created -->
+[![Galaxy animation](https://github.com/lifeBalance/lifeBalance/blob/main/universe.gif)](https://www.linkedin.com/)
+<!-- update with my linkedin account once created -->
 
 ## Hi there, I'm Javi 👋
 
