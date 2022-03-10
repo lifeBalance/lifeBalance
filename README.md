@@ -3,6 +3,7 @@
 
 ## Hi there, I'm Javi 👋, a student at [![hive](https://github.com/lifeBalance/lifeBalance/blob/main/hive.png)](https://www.hive.fi/en/)
 
+<img align="left" width="50%" height="50%" src="https://github.com/lifeBalance/lifeBalance/blob/main/42_Logo.svg.png">
 - 🔭 I’m currently working on Web-Development
 - 🌱 I’m currently learning HTML, CSS, JavaScript, React, Node.js...
 - 👯 I’m looking to collaborate remotely on any Web-App (preferably built on the stack I use).
