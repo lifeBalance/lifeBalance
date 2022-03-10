@@ -1,23 +1,24 @@
 [![Galaxy animation](https://github.com/lifeBalance/lifeBalance/blob/main/universe.gif)](https://www.linkedin.com/)
 <!-- update with my linkedin account once created -->
 
-## Hi there, I'm Javi 👋, a student at [![hive](https://github.com/lifeBalance/lifeBalance/blob/main/hive.png)](https://www.hive.fi/en/)
+## Hi there, I'm Javi 🖖
 
 <img align="left" width="20%" src="https://github.com/lifeBalance/lifeBalance/blob/main/42_Logo.svg.png">
 
-* 🔭 I’m currently working on Web-Development
-* 🌱 I’m currently learning HTML, CSS, JavaScript, React, Node.js...
-* 👯 I’m looking to collaborate remotely on any Web-App (preferably built on the stack I use).
+* 🐝 I’m currently a student at [![hive](https://github.com/lifeBalance/lifeBalance/blob/main/hive.png)](https://www.hive.fi/en/)
+* 🔭 I’ve been writing plenty of C code for the last year or so.
+* 🌱 I’m currently polishing my knowledge about Web Tecnologies.
+* 👯 I’m looking for a **job**, remote or in-site (open to change my location).
 
 ---
 
-### Languages
+### Some Languages I've written lately
 
 ![C](https://img.shields.io/badge/-C-000?&logo=C)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
 
-### Technologies
+### Some Technologies that make me happy
 
 ![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
 ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
