@@ -3,16 +3,16 @@
 
 ## Hi there, I'm Javi 🖖
 
-<img align="left" width="20%" src="https://github.com/lifeBalance/lifeBalance/blob/main/42_Logo.svg.png">
+<a href="https://42.fr/en/network-42/"><img align="left" width="20%" src="https://github.com/lifeBalance/lifeBalance/blob/main/42_Logo.svg.png"></a>
 
 * 🐝 I’m currently a student at [![hive](https://github.com/lifeBalance/lifeBalance/blob/main/hive.png)](https://www.hive.fi/en/)
 * 🔭 I’ve been writing plenty of C code for the last year or so.
-* 🌱 I’m currently polishing my knowledge about Web Tecnologies.
+* 🌱 At the moment I’m polishing my knowledge about Web Tecnologies.
 * 👯 I’m looking for a **job**, remote or in-site (open to change my location).
 
 ---
 
-### Some Languages I've written lately
+### Some Languages I've been writing lately
 
 ![C](https://img.shields.io/badge/-C-000?&logo=C)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
