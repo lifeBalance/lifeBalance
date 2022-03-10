@@ -1,7 +1,7 @@
 [![Galaxy animation](https://github.com/lifeBalance/lifeBalance/blob/main/universe.gif)](https://www.linkedin.com/)
 <!-- update with my linkedin account once created -->
 
-## Hi there, I'm Javi 👋, a student at [![hive.fi](https://github.com/lifeBalance/lifeBalance/blob/main/hive.png)](hive.fi)
+## Hi there, I'm Javi 👋, a student at [![hive](https://github.com/lifeBalance/lifeBalance/blob/main/hive.png)](https://www.hive.fi/en/)
 
 - 🔭 I’m currently working on Web-Development
 - 🌱 I’m currently learning HTML, CSS, JavaScript, React, Node.js...
