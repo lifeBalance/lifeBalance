@@ -3,7 +3,7 @@
 
 ## Hi there, I'm Javi 🖖🏼
 
-<a href="https://42.fr/en/network-42/"><img align="left" width="20%" src="https://github.com/lifeBalance/lifeBalance/blob/main/42_Logo.svg.png"></a>
+<a href="https://42.fr/en/network-42/"><img align="left" width="20%" src="https://github.com/lifeBalance/lifeBalance/blob/main/42.png"></a>
 
 * 🐝 I’m currently a student at [hive.fi](https://www.hive.fi/en/), a school belonging to the [42 Network](https://42.fr/en/network-42/).
 * 🆎 I’ve been writing plenty of **C** code for the last year or so.
