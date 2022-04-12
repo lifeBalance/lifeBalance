@@ -5,7 +5,7 @@
 
 <a href="https://42.fr/en/network-42/"><img align="left" width="20%" margin-right="15%" src="https://github.com/lifeBalance/lifeBalance/blob/main/42.png"></a>
 
-* 🐝 I’m currently a student at [hive.fi](https://www.hive.fi/en/), a school belonging to the [42 Network](https://42.fr/en/network-42/).
+* 🐝 I’m currently a student at [Hive Helsinki](https://www.hive.fi/en/), a school belonging to the [42 Network](https://42.fr/en/network-42/).
 * 🆎 I’ve been writing plenty of **C** code for the last year or so.
 * 🐚 I know my way around **Unix/Linux** systems; proficient at the **command-line** and **shell-scripting**.
 * 🌱 At the moment I’m polishing my knowledge about **Web Tecnologies**.
