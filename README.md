@@ -1,7 +1,7 @@
 [![Galaxy animation](https://github.com/lifeBalance/lifeBalance/blob/main/universe.gif)](https://www.linkedin.com/)
 <!-- update with my linkedin account once created -->
 
-## Hi there, I'm Javi 🖖🏼
+## Hi there, I'm Javi 🖖🏼 ![](https://komarev.com/ghpvc/?username=lifeBalance&style=flat-square)
 
 <a href="https://42.fr/en/network-42/"><img align="left" width="20%" margin-right="15%" src="https://github.com/lifeBalance/lifeBalance/blob/main/42.png"></a>
 
