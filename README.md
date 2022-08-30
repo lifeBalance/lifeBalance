@@ -1,7 +1,7 @@
 [![Galaxy animation](https://github.com/lifeBalance/lifeBalance/blob/main/universe.gif)](https://www.linkedin.com/)
 <!-- update with my linkedin account once created -->
 
-## Hi there, I'm Javi 🖖🏼 ![](https://komarev.com/ghpvc/?username=lifeBalance&style=flat-square)
+## Hi there, I'm Javi 🖖🏼
 
 <a href="https://42.fr/en/network-42/"><img align="left" width="20%" margin-right="15%" src="https://github.com/lifeBalance/lifeBalance/blob/main/42.png"></a>
 
@@ -11,6 +11,8 @@
 * 🌱 At the moment I’m polishing my knowledge about **Web Tecnologies**.
 * 🔎 Always willing to **learn** new stuff. Things that interest me: math, cryptography, cybersecurity, new languages, competitive programming...
 * 👯 I’m looking for a **job**, remote or in-site (open to change my location).
+
+![](https://komarev.com/ghpvc/?username=lifeBalance&style=flat-square)
 
 ---
 
