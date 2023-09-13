@@ -10,9 +10,8 @@
 * 🐝 I’m an **alumni** from [Hive Helsinki](https://www.hive.fi/en/), a school belonging to the [42 Network](https://42.fr/en/network-42/).
 * 🆎 I’ve written a considerable amount of **C** during my studies at Hive (and before).
 * 🐚 I know my way around **Unix/Linux** systems; proficient at the **command-line** and **shell-scripting**.
-* 🌱 Always willing to **learn** new stuff.
-* 🔎 I continue developing my skills in several topics: math, algorithms, cryptography, cybersecurity, new languages, competitive programming... and any topic I deem as cool stuff.
-* 👷‍♂️ At the moment I’m employed as a **Full Stack web developer** for a Finnish FinTech startup.
+* 🌱 I love to **learn** new things, and continue developing my skills in several topics: math, algorithms, cryptography, cybersecurity, new languages, competitive programming... and any topic I deem as cool stuff.
+* 👷‍♂️ At the moment I’m employed as a **Full Stack web developer** at a Finnish FinTech startup.
 
 ![](https://komarev.com/ghpvc/?username=lifeBalance&style=flat-square)
 ---
