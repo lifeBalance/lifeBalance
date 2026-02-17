@@ -14,6 +14,8 @@
 * 👷‍♂️ At the moment I’m employed as a **Full Stack web developer** at a Finnish FinTech startup.
 
 ![](https://komarev.com/ghpvc/?username=lifeBalance&style=flat-square)
+
+[🌐 My Blog](https://lifebalance.github.io/) 👈
 ---
 
 ### Some Languages I've been writing lately
