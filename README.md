@@ -11,7 +11,7 @@
 * 🆎 I’ve written a considerable amount of **C** during my studies at Hive (and before).
 * 🐚 I know my way around **Unix/Linux** systems; proficient at the **command-line** and **shell-scripting**.
 * 🌱 I love to **learn** new things, and continue developing my skills in several topics: math, algorithms, cryptography, cybersecurity, new languages, competitive programming... and any topic I deem as cool stuff.
-* 👷‍♂️ At the moment I’m employed as a **Full Stack web developer** at a Finnish FinTech startup.
+* 👷‍♂️ At the moment working at the movies.
 
 ![](https://komarev.com/ghpvc/?username=lifeBalance&style=flat-square)
 
