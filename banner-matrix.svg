@@ -1,0 +1,1056 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 500" width="1600" height="500" role="img" aria-label="Javi Rodriguez. Software Craftmanship" xmlns:c2pa="http://c2pa.org/manifest"><metadata><c2pa:manifest>AAAWgmp1bWIAAAAeanVtZGMycGEAEQAQgAAAqgA4m3EDYzJwYQAAABZcanVtYgAAAEdqdW1kYzJtYQARABCAAACqADibcQN1cm46YzJwYTowMzc3YTVlMS1hODExLTQxZjAtYTc1OS0wNzdmNWU1NjQ3NzcAAAADl2p1bWIAAAApanVtZGMyYXMAEQAQgAAAqgA4m3EDYzJwYS5hc3NlcnRpb25zAAAAALxqdW1iAAAARGp1bWRjYm9yABEAEIAAAKoAOJtxE2MycGEuaW5ncmVkaWVudC52MwAAAAAYYzJzaDZY7GJ3fXPJMmPQpwhImfcAAABwY2JvcqNpZGM6Zm9ybWF0bWltYWdlL3N2Zyt4bWxqaW5zdGFuY2VJRHgseG1wOmlpZDo4ZmY1NzQ2MS05OTMxLTRkZjYtOGY4ZS04M2EwMTllYTc1YjVscmVsYXRpb25zaGlwaHBhcmVudE9mAAAB4mp1bWIAAABBanVtZGNib3IAEQAQgAAAqgA4m3ETYzJwYS5hY3Rpb25zLnYyAAAAABhjMnNodNP2hj8CvwkIgIT9WkUewgAAAZljYm9yomdhY3Rpb25zgqJmYWN0aW9ua2MycGEub3BlbmVkanBhcmFtZXRlcnOha2luZ3JlZGllbnRzgaJjdXJseC1zZWxmI2p1bWJmPWMycGEuYXNzZXJ0aW9ucy9jMnBhLmluZ3JlZGllbnQudjNkaGFzaFgg3iDBpOut+H0IVbiMMFXNA3jVnSCa+GMpRUufS+5rLFykZmFjdGlvbngdY29tLmFudGhyb3BpYy5jbGF1ZGUucHJvdmlkZWRqcGFyYW1ldGVyc6F4H2NvbS5hbnRocm9waWMub3JpZ2luLWNvbmZpZGVuY2VndW5rbm93bmtkZXNjcmlwdGlvbnhmQ2xhdWRlIHByb3ZpZGVkIHRoaXMgZmlsZSBhdCB0aGUgcmVxdWVzdCBvZiBhIHVzZXIgYW5kIG1heSBoYXZlIGNyZWF0ZWQgb3IgbW9kaWZpZWQgdGhlIGZpbGUgY29udGVudHMubXNvZnR3YXJlQWdlbnShZG5hbWVmQ2xhdWRlcmFsbEFjdGlvbnNJbmNsdWRlZPUAAADIanVtYgAAAEBqdW1kY2JvcgARABCAAACqADibcRNjMnBhLmhhc2guZGF0YQAAAAAYYzJzaJjlsIkXu2cwGxYH+ZXWmLgAAACAY2JvcqVjYWxnZnNoYTI1NmNwYWRNAAAAAAAAAAAAAAAAAGRoYXNoWCBX+LI+0aGbW6oZqErGh1takQ9O88uS/3shHy+W2k4DFWRuYW1lbmp1bWJmIG1hbmlmZXN0amV4Y2x1c2lvbnOBomVzdGFydBjWZmxlbmd0aBkeBAAAAj5qdW1iAAAAJ2p1bWRjMmNsABEAEIAAAKoAOJtxA2MycGEuY2xhaW0udjIAAAACD2Nib3KlY2FsZ2ZzaGEyNTZpc2lnbmF0dXJleE1zZWxmI2p1bWJmPS9jMnBhL3VybjpjMnBhOjAzNzdhNWUxLWE4MTEtNDFmMC1hNzU5LTA3N2Y1ZTU2NDc3Ny9jMnBhLnNpZ25hdHVyZWppbnN0YW5jZUlEeCx4bXA6aWlkOjFiZjQ4NmFiLTg4MGMtNDhlYi05Mjg2LWIzNWM5YTBkZDY0NXJjcmVhdGVkX2Fzc2VydGlvbnODomN1cmx4LXNlbGYjanVtYmY9YzJwYS5hc3NlcnRpb25zL2MycGEuaW5ncmVkaWVudC52M2RoYXNoWCDeIMGk6634fQhVuIwwVc0DeNWdIJr4YylFS59L7mssXKJjdXJseCpzZWxmI2p1bWJmPWMycGEuYXNzZXJ0aW9ucy9jMnBhLmFjdGlvbnMudjJkaGFzaFggHaKs6pHdFcRnU/ZIOeeGVtIdD+q+Kx+/wdXpRDfYTg6iY3VybHgpc2VsZiNqdW1iZj1jMnBhLmFzc2VydGlvbnMvYzJwYS5oYXNoLmRhdGFkaGFzaFgg7Qz7Lo6KfFHQRLGViR9gQIA8Fm1Uwl1sEV3WSA1oS7x0Y2xhaW1fZ2VuZXJhdG9yX2luZm+jZG5hbWVvQW50aHJvcGljIEZpbGVzZ3ZlcnNpb25lMS4wLjBrc3BlY1ZlcnNpb25lMi40LjAAABA4anVtYgAAAChqdW1kYzJjcwARABCAAACqADibcQNjMnBhLnNpZ25hdHVyZQAAABAIY2JvctKEWQISogEmGCFZAgowggIGMIIBjaADAgECAhRA5aAK7sI50L64g/oGQgU9Z1UTADAKBggqhkjOPQQDAzBJMRcwFQYDVQQKEw5BbnRocm9waWMsIFBCQzEuMCwGA1UEAxMlQW50aHJvcGljIENvbnRlbnQgQ3JlZGVudGlhbHMgUm9vdCBDQTAeFw0yNjA4MDcxODQzNTZaFw0yODA4MDYxOTQzNTZaMEQxFzAVBgNVBAoTDkFudGhyb3BpYywgUEJDMSkwJwYDVQQDEyBBbnRocm9waWMgQ2xhdWRlIENvbnRlbnQgU2lnbmluZzBZMBMGByqGSM49AgEGCCqGSM49AwEHA0IABJh6CmvLUBgFFNU0vUKlOVtE6djd17L5SuwX0LemFisBM3dkd/3cyjxFA3Qo5S46fX0/ihY0VZ7mfb9KF703t5OjWDBWMA4GA1UdDwEB/wQEAwIHgDAVBgNVHSUEDjAMBgorBgEEAYPoXgIBMAwGA1UdEwEB/wQCMAAwHwYDVR0jBBgwFoAUzlHiBIFOZFsj+OPEz5o+nMHXXMIwCgYIKoZIzj0EAwMDZwAwZAIwMXMdFJ4BetLLVY7ORuE9noqbbAZOZn/aArXyTwFAZfKrPzxF2vPoJNf1+UCdg1XGAjBwX1zd9WGqYkqmL5SFqw1QySjr1zJfpJM9+1rdDwSPLMOPOjKuiXjoU/pUUeG9RwmhY3BhZFkNngAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPZYQHdY18g3Jp4wjMBUhbV1Y4zoepKUkYR06IUQE/qink9ndRIXVjcoAUHTso5nJYEPInlvP+47h58OGMO5ZvllVoY=</c2pa:manifest></metadata>
+  <defs>
+    <linearGradient id="ink" gradientUnits="userSpaceOnUse" x1="380" y1="0" x2="1220" y2="0">
+      <stop offset="0" stop-color="#0aff60"></stop>
+      <stop offset="0.5" stop-color="#b6ffcf"></stop>
+      <stop offset="1" stop-color="#0aff60"></stop>
+      <animate attributeName="x1" values="380;140;380" dur="10s" repeatCount="indefinite"></animate>
+      <animate attributeName="x2" values="1220;1460;1220" dur="10s" repeatCount="indefinite"></animate>
+    </linearGradient>
+    <linearGradient id="plate" gradientUnits="userSpaceOnUse" x1="120" y1="0" x2="1480" y2="0">
+      <stop offset="0" stop-color="#04050a" stop-opacity="0"></stop>
+      <stop offset="0.2" stop-color="#04050a" stop-opacity="0.88"></stop>
+      <stop offset="0.8" stop-color="#04050a" stop-opacity="0.88"></stop>
+      <stop offset="1" stop-color="#04050a" stop-opacity="0"></stop>
+    </linearGradient>
+  </defs>
+
+  <rect width="1600" height="500" rx="14" fill="#04050a"></rect>
+
+  <g font-family="'JetBrains Mono','DejaVu Sans Mono',Consolas,monospace" font-size="19" text-anchor="middle">
+    <g>
+      <animateTransform attributeName="transform" type="translate" values="0,-432; 0,540" dur="9.16s" begin="-0.23s" repeatCount="indefinite"></animateTransform>
+        <text x="16" y="0" fill="#0aff60" opacity="0.1">&#xFF89;</text>
+        <text x="16" y="24" fill="#0aff60" opacity="0.13">&#xFF77;</text>
+        <text x="16" y="48" fill="#0aff60" opacity="0.16">&#xFF71;</text>
+        <text x="16" y="72" fill="#0aff60" opacity="0.18">&#xFF6A;<animate attributeName="opacity" values="0.18;0.03;0.18" dur="1.68s" repeatCount="indefinite"></animate></text>
+        <text x="16" y="96" fill="#0aff60" opacity="0.21">8</text>
+        <text x="16" y="120" fill="#0aff60" opacity="0.24">&#xFF7F;</text>
+        <text x="16" y="144" fill="#0aff60" opacity="0.27">&#xFF9B;</text>
+        <text x="16" y="168" fill="#0aff60" opacity="0.3">&#xFF89;</text>
+        <text x="16" y="192" fill="#0aff60" opacity="0.33">&#xFF66;</text>
+        <text x="16" y="216" fill="#0aff60" opacity="0.35">&#xFF7A;</text>
+        <text x="16" y="240" fill="#0aff60" opacity="0.38">&#xFF91;</text>
+        <text x="16" y="264" fill="#0aff60" opacity="0.41">&#xFF81;</text>
+        <text x="16" y="288" fill="#0aff60" opacity="0.44">&#xFF91;<animate attributeName="opacity" values="0.44;0.07;0.44" dur="2.04s" repeatCount="indefinite"></animate></text>
+        <text x="16" y="312" fill="#0aff60" opacity="0.47">&#xFF93;</text>
+        <text x="16" y="336" fill="#0aff60" opacity="0.49">&#xFF87;</text>
+        <text x="16" y="360" fill="#0aff60" opacity="0.52">2</text>
+        <text x="16" y="384" fill="#7dffb0" opacity="0.92">&#xFF96;</text>
+        <text x="16" y="408" fill="#d9ffe6" opacity="1.0">&#xFF8B;</text>
+    </g>
+    <g>
+      <animateTransform attributeName="transform" type="translate" values="0,-432; 0,540" dur="9.02s" begin="-7.77s" repeatCount="indefinite"></animateTransform>
+        <text x="48" y="0" fill="#0aff60" opacity="0.1">&#xFF7E;</text>
+        <text x="48" y="24" fill="#0aff60" opacity="0.13">&#xFF6B;</text>
+        <text x="48" y="48" fill="#0aff60" opacity="0.16">&#xFF8B;</text>
+        <text x="48" y="72" fill="#0aff60" opacity="0.18">&#xFF83;</text>
+        <text x="48" y="96" fill="#0aff60" opacity="0.21">&#xFF96;</text>
+        <text x="48" y="120" fill="#0aff60" opacity="0.24">&#xFF94;</text>
+        <text x="48" y="144" fill="#0aff60" opacity="0.27">&#xFF93;</text>
+        <text x="48" y="168" fill="#0aff60" opacity="0.3">&#xFF88;</text>
+        <text x="48" y="192" fill="#0aff60" opacity="0.33">&#xFF6F;</text>
+        <text x="48" y="216" fill="#0aff60" opacity="0.35">&#xFF7B;</text>
+        <text x="48" y="240" fill="#0aff60" opacity="0.38">&#xFF85;</text>
+        <text x="48" y="264" fill="#0aff60" opacity="0.41">&#xFF96;</text>
+        <text x="48" y="288" fill="#0aff60" opacity="0.44">&#xFF82;</text>
+        <text x="48" y="312" fill="#0aff60" opacity="0.47">&#xFF6D;</text>
+        <text x="48" y="336" fill="#0aff60" opacity="0.49">&#xFF6A;</text>
+        <text x="48" y="360" fill="#0aff60" opacity="0.52">&#xFF99;</text>
+        <text x="48" y="384" fill="#7dffb0" opacity="0.92">&#xFF81;</text>
+        <text x="48" y="408" fill="#d9ffe6" opacity="1.0">&#xFF8E;</text>
+    </g>
+    <g>
+      <animateTransform attributeName="transform" type="translate" values="0,-432; 0,540" dur="8.25s" begin="-7.3s" repeatCount="indefinite"></animateTransform>
+        <text x="80" y="0" fill="#0aff60" opacity="0.1">2</text>
+        <text x="80" y="24" fill="#0aff60" opacity="0.13">&#xFF77;</text>
+        <text x="80" y="48" fill="#0aff60" opacity="0.16">&#xFF87;</text>
+        <text x="80" y="72" fill="#0aff60" opacity="0.18">&#xFF9C;</text>
+        <text x="80" y="96" fill="#0aff60" opacity="0.21">&#xFF99;</text>
+        <text x="80" y="120" fill="#0aff60" opacity="0.24">&#xFF77;</text>
+        <text x="80" y="144" fill="#0aff60" opacity="0.27">&#xFF71;</text>
+        <text x="80" y="168" fill="#0aff60" opacity="0.3">&#xFF74;</text>
+        <text x="80" y="192" fill="#0aff60" opacity="0.33">&#xFF7A;</text>
+        <text x="80" y="216" fill="#0aff60" opacity="0.35">&#xFF9C;</text>
+        <text x="80" y="240" fill="#0aff60" opacity="0.38">&#xFF97;</text>
+        <text x="80" y="264" fill="#0aff60" opacity="0.41">3</text>
+        <text x="80" y="288" fill="#0aff60" opacity="0.44">&#xFF67;</text>
+        <text x="80" y="312" fill="#0aff60" opacity="0.47">&#xFF74;</text>
+        <text x="80" y="336" fill="#0aff60" opacity="0.49">&#xFF88;</text>
+        <text x="80" y="360" fill="#0aff60" opacity="0.52">&#xFF91;<animate attributeName="opacity" values="0.52;0.08;0.52" dur="2.16s" repeatCount="indefinite"></animate></text>
+        <text x="80" y="384" fill="#7dffb0" opacity="0.92">2</text>
+        <text x="80" y="408" fill="#d9ffe6" opacity="1.0">&#xFF87;</text>
+    </g>
+    <g>
+      <animateTransform attributeName="transform" type="translate" values="0,-432; 0,540" dur="9.95s" begin="-5.05s" repeatCount="indefinite"></animateTransform>
+        <text x="112" y="0" fill="#0aff60" opacity="0.1">&#xFF73;</text>
+        <text x="112" y="24" fill="#0aff60" opacity="0.13">&#xFF8C;</text>
+        <text x="112" y="48" fill="#0aff60" opacity="0.16">8</text>
+        <text x="112" y="72" fill="#0aff60" opacity="0.18">&#xFF79;</text>
+        <text x="112" y="96" fill="#0aff60" opacity="0.21">&#xFF7A;</text>
+        <text x="112" y="120" fill="#0aff60" opacity="0.24">&#xFF66;</text>
+        <text x="112" y="144" fill="#0aff60" opacity="0.27">6<animate attributeName="opacity" values="0.27;0.04;0.27" dur="3.24s" repeatCount="indefinite"></animate></text>
+        <text x="112" y="168" fill="#0aff60" opacity="0.3">&#xFF8D;</text>
+        <text x="112" y="192" fill="#0aff60" opacity="0.33">&#xFF84;</text>
+        <text x="112" y="216" fill="#0aff60" opacity="0.35">&#xFF70;<animate attributeName="opacity" values="0.35;0.05;0.35" dur="2.27s" repeatCount="indefinite"></animate></text>
+        <text x="112" y="240" fill="#0aff60" opacity="0.38">&#xFF6E;</text>
+        <text x="112" y="264" fill="#0aff60" opacity="0.41">&#xFF76;</text>
+        <text x="112" y="288" fill="#0aff60" opacity="0.44">4</text>
+        <text x="112" y="312" fill="#0aff60" opacity="0.47">&#xFF7B;</text>
+        <text x="112" y="336" fill="#0aff60" opacity="0.49">&#xFF9C;</text>
+        <text x="112" y="360" fill="#0aff60" opacity="0.52">&#xFF7F;</text>
+        <text x="112" y="384" fill="#7dffb0" opacity="0.92">&#xFF99;</text>
+        <text x="112" y="408" fill="#d9ffe6" opacity="1.0">&#xFF95;</text>
+    </g>
+    <g>
+      <animateTransform attributeName="transform" type="translate" values="0,-432; 0,540" dur="8.36s" begin="-1.01s" repeatCount="indefinite"></animateTransform>
+        <text x="144" y="0" fill="#0aff60" opacity="0.1">&#xFF82;<animate attributeName="opacity" values="0.1;0.01;0.1" dur="1.25s" repeatCount="indefinite"></animate></text>
+        <text x="144" y="24" fill="#0aff60" opacity="0.13">&#xFF83;</text>
+        <text x="144" y="48" fill="#0aff60" opacity="0.16">&#xFF66;<animate attributeName="opacity" values="0.16;0.02;0.16" dur="2.59s" repeatCount="indefinite"></animate></text>
+        <text x="144" y="72" fill="#0aff60" opacity="0.18">&#xFF83;<animate attributeName="opacity" values="0.18;0.03;0.18" dur="1.27s" repeatCount="indefinite"></animate></text>
+        <text x="144" y="96" fill="#0aff60" opacity="0.21">&#xFF90;<animate attributeName="opacity" values="0.21;0.03;0.21" dur="1.72s" repeatCount="indefinite"></animate></text>
+        <text x="144" y="120" fill="#0aff60" opacity="0.24">6</text>
+        <text x="144" y="144" fill="#0aff60" opacity="0.27">&#xFF76;</text>
+        <text x="144" y="168" fill="#0aff60" opacity="0.3">4</text>
+        <text x="144" y="192" fill="#0aff60" opacity="0.33">4</text>
+        <text x="144" y="216" fill="#0aff60" opacity="0.35">&#xFF7E;<animate attributeName="opacity" values="0.35;0.05;0.35" dur="2.65s" repeatCount="indefinite"></animate></text>
+        <text x="144" y="240" fill="#0aff60" opacity="0.38">&#xFF93;</text>
+        <text x="144" y="264" fill="#0aff60" opacity="0.41">3</text>
+        <text x="144" y="288" fill="#0aff60" opacity="0.44">&#xFF6C;</text>
+        <text x="144" y="312" fill="#0aff60" opacity="0.47">&#xFF72;<animate attributeName="opacity" values="0.47;0.07;0.47" dur="2.8s" repeatCount="indefinite"></animate></text>
+        <text x="144" y="336" fill="#0aff60" opacity="0.49">&#xFF73;</text>
+        <text x="144" y="360" fill="#0aff60" opacity="0.52">&#xFF7E;</text>
+        <text x="144" y="384" fill="#7dffb0" opacity="0.92">&#xFF77;</text>
+        <text x="144" y="408" fill="#d9ffe6" opacity="1.0">&#xFF89;</text>
+    </g>
+    <g>
+      <animateTransform attributeName="transform" type="translate" values="0,-432; 0,540" dur="10.68s" begin="-0.81s" repeatCount="indefinite"></animateTransform>
+        <text x="176" y="0" fill="#0aff60" opacity="0.1">&#xFF72;<animate attributeName="opacity" values="0.1;0.01;0.1" dur="3.4s" repeatCount="indefinite"></animate></text>
+        <text x="176" y="24" fill="#0aff60" opacity="0.13">&#xFF67;</text>
+        <text x="176" y="48" fill="#0aff60" opacity="0.16">&#xFF84;</text>
+        <text x="176" y="72" fill="#0aff60" opacity="0.18">6</text>
+        <text x="176" y="96" fill="#0aff60" opacity="0.21">&#xFF99;</text>
+        <text x="176" y="120" fill="#0aff60" opacity="0.24">&#xFF7B;</text>
+        <text x="176" y="144" fill="#0aff60" opacity="0.27">&#xFF97;</text>
+        <text x="176" y="168" fill="#0aff60" opacity="0.3">2</text>
+        <text x="176" y="192" fill="#0aff60" opacity="0.33">6</text>
+        <text x="176" y="216" fill="#0aff60" opacity="0.35">&#xFF8B;</text>
+        <text x="176" y="240" fill="#0aff60" opacity="0.38">&#xFF6D;</text>
+        <text x="176" y="264" fill="#0aff60" opacity="0.41">&#xFF6D;</text>
+        <text x="176" y="288" fill="#0aff60" opacity="0.44">&#xFF6D;<animate attributeName="opacity" values="0.44;0.07;0.44" dur="2.25s" repeatCount="indefinite"></animate></text>
+        <text x="176" y="312" fill="#0aff60" opacity="0.47">&#xFF7A;<animate attributeName="opacity" values="0.47;0.07;0.47" dur="2.32s" repeatCount="indefinite"></animate></text>
+        <text x="176" y="336" fill="#0aff60" opacity="0.49">&#xFF7D;<animate attributeName="opacity" values="0.49;0.07;0.49" dur="1.35s" repeatCount="indefinite"></animate></text>
+        <text x="176" y="360" fill="#0aff60" opacity="0.52">&#xFF84;</text>
+        <text x="176" y="384" fill="#7dffb0" opacity="0.92">&#xFF85;</text>
+        <text x="176" y="408" fill="#d9ffe6" opacity="1.0">&#xFF6B;</text>
+    </g>
+    <g>
+      <animateTransform attributeName="transform" type="translate" values="0,-432; 0,540" dur="7.72s" begin="-4.51s" repeatCount="indefinite"></animateTransform>
+        <text x="208" y="0" fill="#0aff60" opacity="0.1">&#xFF8E;</text>
+        <text x="208" y="24" fill="#0aff60" opacity="0.13">&#xFF80;</text>
+        <text x="208" y="48" fill="#0aff60" opacity="0.16">&#xFF8E;</text>
+        <text x="208" y="72" fill="#0aff60" opacity="0.18">&#xFF98;</text>
+        <text x="208" y="96" fill="#0aff60" opacity="0.21">&#xFF8C;</text>
+        <text x="208" y="120" fill="#0aff60" opacity="0.24">&#xFF6F;<animate attributeName="opacity" values="0.24;0.04;0.24" dur="2.57s" repeatCount="indefinite"></animate></text>
+        <text x="208" y="144" fill="#0aff60" opacity="0.27">&#xFF72;<animate attributeName="opacity" values="0.27;0.04;0.27" dur="1.67s" repeatCount="indefinite"></animate></text>
+        <text x="208" y="168" fill="#0aff60" opacity="0.3">&#xFF87;</text>
+        <text x="208" y="192" fill="#0aff60" opacity="0.33">&#xFF92;</text>
+        <text x="208" y="216" fill="#0aff60" opacity="0.35">&#xFF85;</text>
+        <text x="208" y="240" fill="#0aff60" opacity="0.38">&#xFF7A;</text>
+        <text x="208" y="264" fill="#0aff60" opacity="0.41">&#xFF8C;</text>
+        <text x="208" y="288" fill="#0aff60" opacity="0.44">&#xFF67;</text>
+        <text x="208" y="312" fill="#0aff60" opacity="0.47">&#xFF8C;</text>
+        <text x="208" y="336" fill="#0aff60" opacity="0.49">&#xFF73;</text>
+        <text x="208" y="360" fill="#0aff60" opacity="0.52">&#xFF77;</text>
+        <text x="208" y="384" fill="#7dffb0" opacity="0.92">&#xFF73;</text>
+        <text x="208" y="408" fill="#d9ffe6" opacity="1.0">&#xFF79;</text>
+    </g>
+    <g>
+      <animateTransform attributeName="transform" type="translate" values="0,-432; 0,540" dur="8.93s" begin="-6.41s" repeatCount="indefinite"></animateTransform>
+        <text x="240" y="0" fill="#0aff60" opacity="0.1">&#xFF80;</text>
+        <text x="240" y="24" fill="#0aff60" opacity="0.13">&#xFF87;</text>
+        <text x="240" y="48" fill="#0aff60" opacity="0.16">&#xFF86;</text>
+        <text x="240" y="72" fill="#0aff60" opacity="0.18">&#xFF6C;<animate attributeName="opacity" values="0.18;0.03;0.18" dur="2.13s" repeatCount="indefinite"></animate></text>
+        <text x="240" y="96" fill="#0aff60" opacity="0.21">&#xFF89;<animate attributeName="opacity" values="0.21;0.03;0.21" dur="1.93s" repeatCount="indefinite"></animate></text>
+        <text x="240" y="120" fill="#0aff60" opacity="0.24">&#xFF76;</text>
+        <text x="240" y="144" fill="#0aff60" opacity="0.27">&#xFF87;</text>
+        <text x="240" y="168" fill="#0aff60" opacity="0.3">0</text>
+        <text x="240" y="192" fill="#0aff60" opacity="0.33">&#xFF9C;</text>
+        <text x="240" y="216" fill="#0aff60" opacity="0.35">&#xFF74;<animate attributeName="opacity" values="0.35;0.05;0.35" dur="3.14s" repeatCount="indefinite"></animate></text>
+        <text x="240" y="240" fill="#0aff60" opacity="0.38">&#xFF79;</text>
+        <text x="240" y="264" fill="#0aff60" opacity="0.41">&#xFF95;</text>
+        <text x="240" y="288" fill="#0aff60" opacity="0.44">&#xFF78;</text>
+        <text x="240" y="312" fill="#0aff60" opacity="0.47">&#xFF6B;</text>
+        <text x="240" y="336" fill="#0aff60" opacity="0.49">&#xFF6B;</text>
+        <text x="240" y="360" fill="#0aff60" opacity="0.52">&#xFF80;</text>
+        <text x="240" y="384" fill="#7dffb0" opacity="0.92">&#xFF73;</text>
+        <text x="240" y="408" fill="#d9ffe6" opacity="1.0">&#xFF9A;</text>
+    </g>
+    <g>
+      <animateTransform attributeName="transform" type="translate" values="0,-432; 0,540" dur="9.87s" begin="-9.14s" repeatCount="indefinite"></animateTransform>
+        <text x="272" y="0" fill="#0aff60" opacity="0.1">&#xFF84;</text>
+        <text x="272" y="24" fill="#0aff60" opacity="0.13">&#xFF7C;</text>
+        <text x="272" y="48" fill="#0aff60" opacity="0.16">&#xFF69;</text>
+        <text x="272" y="72" fill="#0aff60" opacity="0.18">&#xFF90;</text>
+        <text x="272" y="96" fill="#0aff60" opacity="0.21">&#xFF9A;</text>
+        <text x="272" y="120" fill="#0aff60" opacity="0.24">&#xFF85;</text>
+        <text x="272" y="144" fill="#0aff60" opacity="0.27">&#xFF73;</text>
+        <text x="272" y="168" fill="#0aff60" opacity="0.3">&#xFF6A;</text>
+        <text x="272" y="192" fill="#0aff60" opacity="0.33">&#xFF82;</text>
+        <text x="272" y="216" fill="#0aff60" opacity="0.35">2</text>
+        <text x="272" y="240" fill="#0aff60" opacity="0.38">&#xFF83;</text>
+        <text x="272" y="264" fill="#0aff60" opacity="0.41">&#xFF7E;</text>
+        <text x="272" y="288" fill="#0aff60" opacity="0.44">&#xFF89;</text>
+        <text x="272" y="312" fill="#0aff60" opacity="0.47">&#xFF89;</text>
+        <text x="272" y="336" fill="#0aff60" opacity="0.49">9</text>
+        <text x="272" y="360" fill="#0aff60" opacity="0.52">&#xFF90;</text>
+        <text x="272" y="384" fill="#7dffb0" opacity="0.92">&#xFF74;</text>
+        <text x="272" y="408" fill="#d9ffe6" opacity="1.0">&#xFF87;</text>
+    </g>
+    <g>
+      <animateTransform attributeName="transform" type="translate" values="0,-432; 0,540" dur="11.26s" begin="-2.99s" repeatCount="indefinite"></animateTransform>
+        <text x="304" y="0" fill="#0aff60" opacity="0.1">&#xFF73;</text>
+        <text x="304" y="24" fill="#0aff60" opacity="0.13">&#xFF92;</text>
+        <text x="304" y="48" fill="#0aff60" opacity="0.16">&#xFF8E;</text>
+        <text x="304" y="72" fill="#0aff60" opacity="0.18">9<animate attributeName="opacity" values="0.18;0.03;0.18" dur="3.18s" repeatCount="indefinite"></animate></text>
+        <text x="304" y="96" fill="#0aff60" opacity="0.21">&#xFF7E;</text>
+        <text x="304" y="120" fill="#0aff60" opacity="0.24">&#xFF9D;<animate attributeName="opacity" values="0.24;0.04;0.24" dur="3.24s" repeatCount="indefinite"></animate></text>
+        <text x="304" y="144" fill="#0aff60" opacity="0.27">&#xFF7F;</text>
+        <text x="304" y="168" fill="#0aff60" opacity="0.3">&#xFF6E;</text>
+        <text x="304" y="192" fill="#0aff60" opacity="0.33">&#xFF90;</text>
+        <text x="304" y="216" fill="#0aff60" opacity="0.35">&#xFF75;</text>
+        <text x="304" y="240" fill="#0aff60" opacity="0.38">&#xFF8C;</text>
+        <text x="304" y="264" fill="#0aff60" opacity="0.41">&#xFF9A;</text>
+        <text x="304" y="288" fill="#0aff60" opacity="0.44">&#xFF8B;</text>
+        <text x="304" y="312" fill="#0aff60" opacity="0.47">&#xFF7E;</text>
+        <text x="304" y="336" fill="#0aff60" opacity="0.49">&#xFF96;</text>
+        <text x="304" y="360" fill="#0aff60" opacity="0.52">&#xFF7C;</text>
+        <text x="304" y="384" fill="#7dffb0" opacity="0.92">&#xFF8C;</text>
+        <text x="304" y="408" fill="#d9ffe6" opacity="1.0">&#xFF66;</text>
+    </g>
+    <g>
+      <animateTransform attributeName="transform" type="translate" values="0,-432; 0,540" dur="6.37s" begin="-5.01s" repeatCount="indefinite"></animateTransform>
+        <text x="336" y="0" fill="#0aff60" opacity="0.1">&#xFF8F;</text>
+        <text x="336" y="24" fill="#0aff60" opacity="0.13">0</text>
+        <text x="336" y="48" fill="#0aff60" opacity="0.16">9</text>
+        <text x="336" y="72" fill="#0aff60" opacity="0.18">&#xFF7B;</text>
+        <text x="336" y="96" fill="#0aff60" opacity="0.21">&#xFF8A;</text>
+        <text x="336" y="120" fill="#0aff60" opacity="0.24">&#xFF90;<animate attributeName="opacity" values="0.24;0.04;0.24" dur="3.29s" repeatCount="indefinite"></animate></text>
+        <text x="336" y="144" fill="#0aff60" opacity="0.27">&#xFF84;</text>
+        <text x="336" y="168" fill="#0aff60" opacity="0.3">&#xFF82;</text>
+        <text x="336" y="192" fill="#0aff60" opacity="0.33">&#xFF78;<animate attributeName="opacity" values="0.33;0.05;0.33" dur="1.74s" repeatCount="indefinite"></animate></text>
+        <text x="336" y="216" fill="#0aff60" opacity="0.35">4</text>
+        <text x="336" y="240" fill="#0aff60" opacity="0.38">&#xFF6F;</text>
+        <text x="336" y="264" fill="#0aff60" opacity="0.41">&#xFF7E;</text>
+        <text x="336" y="288" fill="#0aff60" opacity="0.44">&#xFF97;</text>
+        <text x="336" y="312" fill="#0aff60" opacity="0.47">&#xFF85;</text>
+        <text x="336" y="336" fill="#0aff60" opacity="0.49">&#xFF66;</text>
+        <text x="336" y="360" fill="#0aff60" opacity="0.52">&#xFF73;</text>
+        <text x="336" y="384" fill="#7dffb0" opacity="0.92">&#xFF82;</text>
+        <text x="336" y="408" fill="#d9ffe6" opacity="1.0">3</text>
+    </g>
+    <g>
+      <animateTransform attributeName="transform" type="translate" values="0,-432; 0,540" dur="6.62s" begin="-5.62s" repeatCount="indefinite"></animateTransform>
+        <text x="368" y="0" fill="#0aff60" opacity="0.1">2</text>
+        <text x="368" y="24" fill="#0aff60" opacity="0.13">3</text>
+        <text x="368" y="48" fill="#0aff60" opacity="0.16">&#xFF8E;</text>
+        <text x="368" y="72" fill="#0aff60" opacity="0.18">0</text>
+        <text x="368" y="96" fill="#0aff60" opacity="0.21">8</text>
+        <text x="368" y="120" fill="#0aff60" opacity="0.24">1</text>
+        <text x="368" y="144" fill="#0aff60" opacity="0.27">4</text>
+        <text x="368" y="168" fill="#0aff60" opacity="0.3">&#xFF85;</text>
+        <text x="368" y="192" fill="#0aff60" opacity="0.33">&#xFF89;</text>
+        <text x="368" y="216" fill="#0aff60" opacity="0.35">6</text>
+        <text x="368" y="240" fill="#0aff60" opacity="0.38">&#xFF89;</text>
+        <text x="368" y="264" fill="#0aff60" opacity="0.41">&#xFF8A;</text>
+        <text x="368" y="288" fill="#0aff60" opacity="0.44">&#xFF90;</text>
+        <text x="368" y="312" fill="#0aff60" opacity="0.47">&#xFF70;</text>
+        <text x="368" y="336" fill="#0aff60" opacity="0.49">&#xFF83;</text>
+        <text x="368" y="360" fill="#0aff60" opacity="0.52">&#xFF79;</text>
+        <text x="368" y="384" fill="#7dffb0" opacity="0.92">&#xFF6E;</text>
+        <text x="368" y="408" fill="#d9ffe6" opacity="1.0">&#xFF90;</text>
+    </g>
+    <g>
+      <animateTransform attributeName="transform" type="translate" values="0,-432; 0,540" dur="7.7s" begin="-1.59s" repeatCount="indefinite"></animateTransform>
+        <text x="400" y="0" fill="#0aff60" opacity="0.1">&#xFF9B;</text>
+        <text x="400" y="24" fill="#0aff60" opacity="0.13">&#xFF68;</text>
+        <text x="400" y="48" fill="#0aff60" opacity="0.16">&#xFF96;</text>
+        <text x="400" y="72" fill="#0aff60" opacity="0.18">&#xFF93;</text>
+        <text x="400" y="96" fill="#0aff60" opacity="0.21">&#xFF97;</text>
+        <text x="400" y="120" fill="#0aff60" opacity="0.24">&#xFF9B;</text>
+        <text x="400" y="144" fill="#0aff60" opacity="0.27">&#xFF82;</text>
+        <text x="400" y="168" fill="#0aff60" opacity="0.3">&#xFF88;</text>
+        <text x="400" y="192" fill="#0aff60" opacity="0.33">&#xFF69;</text>
+        <text x="400" y="216" fill="#0aff60" opacity="0.35">&#xFF99;</text>
+        <text x="400" y="240" fill="#0aff60" opacity="0.38">3</text>
+        <text x="400" y="264" fill="#0aff60" opacity="0.41">&#xFF69;</text>
+        <text x="400" y="288" fill="#0aff60" opacity="0.44">&#xFF69;<animate attributeName="opacity" values="0.44;0.07;0.44" dur="2.14s" repeatCount="indefinite"></animate></text>
+        <text x="400" y="312" fill="#0aff60" opacity="0.47">3</text>
+        <text x="400" y="336" fill="#0aff60" opacity="0.49">&#xFF87;</text>
+        <text x="400" y="360" fill="#0aff60" opacity="0.52">&#xFF81;</text>
+        <text x="400" y="384" fill="#7dffb0" opacity="0.92">&#xFF91;</text>
+        <text x="400" y="408" fill="#d9ffe6" opacity="1.0">&#xFF96;</text>
+    </g>
+    <g>
+      <animateTransform attributeName="transform" type="translate" values="0,-432; 0,540" dur="11.18s" begin="-4.71s" repeatCount="indefinite"></animateTransform>
+        <text x="432" y="0" fill="#0aff60" opacity="0.1">&#xFF70;</text>
+        <text x="432" y="24" fill="#0aff60" opacity="0.13">&#xFF6C;</text>
+        <text x="432" y="48" fill="#0aff60" opacity="0.16">&#xFF92;</text>
+        <text x="432" y="72" fill="#0aff60" opacity="0.18">&#xFF6E;</text>
+        <text x="432" y="96" fill="#0aff60" opacity="0.21">&#xFF6B;</text>
+        <text x="432" y="120" fill="#0aff60" opacity="0.24">&#xFF85;</text>
+        <text x="432" y="144" fill="#0aff60" opacity="0.27">&#xFF68;</text>
+        <text x="432" y="168" fill="#0aff60" opacity="0.3">&#xFF84;</text>
+        <text x="432" y="192" fill="#0aff60" opacity="0.33">&#xFF74;</text>
+        <text x="432" y="216" fill="#0aff60" opacity="0.35">&#xFF81;</text>
+        <text x="432" y="240" fill="#0aff60" opacity="0.38">&#xFF86;</text>
+        <text x="432" y="264" fill="#0aff60" opacity="0.41">&#xFF7B;</text>
+        <text x="432" y="288" fill="#0aff60" opacity="0.44">&#xFF74;</text>
+        <text x="432" y="312" fill="#0aff60" opacity="0.47">&#xFF7A;</text>
+        <text x="432" y="336" fill="#0aff60" opacity="0.49">&#xFF73;</text>
+        <text x="432" y="360" fill="#0aff60" opacity="0.52">&#xFF8D;</text>
+        <text x="432" y="384" fill="#7dffb0" opacity="0.92">&#xFF96;</text>
+        <text x="432" y="408" fill="#d9ffe6" opacity="1.0">&#xFF7F;</text>
+    </g>
+    <g>
+      <animateTransform attributeName="transform" type="translate" values="0,-432; 0,540" dur="9.49s" begin="-5.95s" repeatCount="indefinite"></animateTransform>
+        <text x="464" y="0" fill="#0aff60" opacity="0.1">&#xFF73;</text>
+        <text x="464" y="24" fill="#0aff60" opacity="0.13">&#xFF8C;</text>
+        <text x="464" y="48" fill="#0aff60" opacity="0.16">&#xFF75;</text>
+        <text x="464" y="72" fill="#0aff60" opacity="0.18">&#xFF6B;</text>
+        <text x="464" y="96" fill="#0aff60" opacity="0.21">&#xFF9C;</text>
+        <text x="464" y="120" fill="#0aff60" opacity="0.24">&#xFF6E;</text>
+        <text x="464" y="144" fill="#0aff60" opacity="0.27">&#xFF91;<animate attributeName="opacity" values="0.27;0.04;0.27" dur="2.12s" repeatCount="indefinite"></animate></text>
+        <text x="464" y="168" fill="#0aff60" opacity="0.3">6<animate attributeName="opacity" values="0.3;0.04;0.3" dur="3.31s" repeatCount="indefinite"></animate></text>
+        <text x="464" y="192" fill="#0aff60" opacity="0.33">2</text>
+        <text x="464" y="216" fill="#0aff60" opacity="0.35">&#xFF9D;</text>
+        <text x="464" y="240" fill="#0aff60" opacity="0.38">&#xFF88;</text>
+        <text x="464" y="264" fill="#0aff60" opacity="0.41">5</text>
+        <text x="464" y="288" fill="#0aff60" opacity="0.44">&#xFF88;</text>
+        <text x="464" y="312" fill="#0aff60" opacity="0.47">&#xFF85;</text>
+        <text x="464" y="336" fill="#0aff60" opacity="0.49">&#xFF71;</text>
+        <text x="464" y="360" fill="#0aff60" opacity="0.52">1</text>
+        <text x="464" y="384" fill="#7dffb0" opacity="0.92">3</text>
+        <text x="464" y="408" fill="#d9ffe6" opacity="1.0">&#xFF96;</text>
+    </g>
+    <g>
+      <animateTransform attributeName="transform" type="translate" values="0,-432; 0,540" dur="8.21s" begin="-2.67s" repeatCount="indefinite"></animateTransform>
+        <text x="496" y="0" fill="#0aff60" opacity="0.1">6</text>
+        <text x="496" y="24" fill="#0aff60" opacity="0.13">&#xFF87;</text>
+        <text x="496" y="48" fill="#0aff60" opacity="0.16">&#xFF89;</text>
+        <text x="496" y="72" fill="#0aff60" opacity="0.18">&#xFF7E;<animate attributeName="opacity" values="0.18;0.03;0.18" dur="2.78s" repeatCount="indefinite"></animate></text>
+        <text x="496" y="96" fill="#0aff60" opacity="0.21">6</text>
+        <text x="496" y="120" fill="#0aff60" opacity="0.24">&#xFF84;</text>
+        <text x="496" y="144" fill="#0aff60" opacity="0.27">6</text>
+        <text x="496" y="168" fill="#0aff60" opacity="0.3">&#xFF68;<animate attributeName="opacity" values="0.3;0.04;0.3" dur="1.69s" repeatCount="indefinite"></animate></text>
+        <text x="496" y="192" fill="#0aff60" opacity="0.33">&#xFF85;</text>
+        <text x="496" y="216" fill="#0aff60" opacity="0.35">&#xFF95;</text>
+        <text x="496" y="240" fill="#0aff60" opacity="0.38">&#xFF92;</text>
+        <text x="496" y="264" fill="#0aff60" opacity="0.41">&#xFF90;</text>
+        <text x="496" y="288" fill="#0aff60" opacity="0.44">2</text>
+        <text x="496" y="312" fill="#0aff60" opacity="0.47">&#xFF86;</text>
+        <text x="496" y="336" fill="#0aff60" opacity="0.49">&#xFF7E;</text>
+        <text x="496" y="360" fill="#0aff60" opacity="0.52">&#xFF7D;</text>
+        <text x="496" y="384" fill="#7dffb0" opacity="0.92">5</text>
+        <text x="496" y="408" fill="#d9ffe6" opacity="1.0">&#xFF8A;</text>
+    </g>
+    <g>
+      <animateTransform attributeName="transform" type="translate" values="0,-432; 0,540" dur="10.41s" begin="-3.08s" repeatCount="indefinite"></animateTransform>
+        <text x="528" y="0" fill="#0aff60" opacity="0.1">&#xFF94;</text>
+        <text x="528" y="24" fill="#0aff60" opacity="0.13">&#xFF67;</text>
+        <text x="528" y="48" fill="#0aff60" opacity="0.16">&#xFF76;</text>
+        <text x="528" y="72" fill="#0aff60" opacity="0.18">&#xFF6C;</text>
+        <text x="528" y="96" fill="#0aff60" opacity="0.21">&#xFF76;</text>
+        <text x="528" y="120" fill="#0aff60" opacity="0.24">6<animate attributeName="opacity" values="0.24;0.04;0.24" dur="1.23s" repeatCount="indefinite"></animate></text>
+        <text x="528" y="144" fill="#0aff60" opacity="0.27">&#xFF8A;</text>
+        <text x="528" y="168" fill="#0aff60" opacity="0.3">0</text>
+        <text x="528" y="192" fill="#0aff60" opacity="0.33">&#xFF6C;</text>
+        <text x="528" y="216" fill="#0aff60" opacity="0.35">5<animate attributeName="opacity" values="0.35;0.05;0.35" dur="1.34s" repeatCount="indefinite"></animate></text>
+        <text x="528" y="240" fill="#0aff60" opacity="0.38">6<animate attributeName="opacity" values="0.38;0.06;0.38" dur="2.58s" repeatCount="indefinite"></animate></text>
+        <text x="528" y="264" fill="#0aff60" opacity="0.41">&#xFF6C;</text>
+        <text x="528" y="288" fill="#0aff60" opacity="0.44">&#xFF8C;<animate attributeName="opacity" values="0.44;0.07;0.44" dur="1.75s" repeatCount="indefinite"></animate></text>
+        <text x="528" y="312" fill="#0aff60" opacity="0.47">&#xFF9B;</text>
+        <text x="528" y="336" fill="#0aff60" opacity="0.49">&#xFF82;</text>
+        <text x="528" y="360" fill="#0aff60" opacity="0.52">&#xFF96;</text>
+        <text x="528" y="384" fill="#7dffb0" opacity="0.92">0</text>
+        <text x="528" y="408" fill="#d9ffe6" opacity="1.0">&#xFF9C;</text>
+    </g>
+    <g>
+      <animateTransform attributeName="transform" type="translate" values="0,-432; 0,540" dur="9.04s" begin="-5.51s" repeatCount="indefinite"></animateTransform>
+        <text x="560" y="0" fill="#0aff60" opacity="0.1">&#xFF72;</text>
+        <text x="560" y="24" fill="#0aff60" opacity="0.13">&#xFF80;</text>
+        <text x="560" y="48" fill="#0aff60" opacity="0.16">&#xFF87;</text>
+        <text x="560" y="72" fill="#0aff60" opacity="0.18">&#xFF7A;</text>
+        <text x="560" y="96" fill="#0aff60" opacity="0.21">&#xFF6F;</text>
+        <text x="560" y="120" fill="#0aff60" opacity="0.24">&#xFF9A;</text>
+        <text x="560" y="144" fill="#0aff60" opacity="0.27">4</text>
+        <text x="560" y="168" fill="#0aff60" opacity="0.3">&#xFF83;</text>
+        <text x="560" y="192" fill="#0aff60" opacity="0.33">&#xFF8A;</text>
+        <text x="560" y="216" fill="#0aff60" opacity="0.35">2<animate attributeName="opacity" values="0.35;0.05;0.35" dur="1.71s" repeatCount="indefinite"></animate></text>
+        <text x="560" y="240" fill="#0aff60" opacity="0.38">&#xFF87;</text>
+        <text x="560" y="264" fill="#0aff60" opacity="0.41">&#xFF7F;</text>
+        <text x="560" y="288" fill="#0aff60" opacity="0.44">&#xFF82;</text>
+        <text x="560" y="312" fill="#0aff60" opacity="0.47">&#xFF88;</text>
+        <text x="560" y="336" fill="#0aff60" opacity="0.49">&#xFF6F;<animate attributeName="opacity" values="0.49;0.07;0.49" dur="2.94s" repeatCount="indefinite"></animate></text>
+        <text x="560" y="360" fill="#0aff60" opacity="0.52">&#xFF8A;</text>
+        <text x="560" y="384" fill="#7dffb0" opacity="0.92">3</text>
+        <text x="560" y="408" fill="#d9ffe6" opacity="1.0">&#xFF99;</text>
+    </g>
+    <g>
+      <animateTransform attributeName="transform" type="translate" values="0,-432; 0,540" dur="8.25s" begin="-4.07s" repeatCount="indefinite"></animateTransform>
+        <text x="592" y="0" fill="#0aff60" opacity="0.1">&#xFF70;</text>
+        <text x="592" y="24" fill="#0aff60" opacity="0.13">&#xFF9D;</text>
+        <text x="592" y="48" fill="#0aff60" opacity="0.16">&#xFF86;<animate attributeName="opacity" values="0.16;0.02;0.16" dur="1.7s" repeatCount="indefinite"></animate></text>
+        <text x="592" y="72" fill="#0aff60" opacity="0.18">&#xFF68;</text>
+        <text x="592" y="96" fill="#0aff60" opacity="0.21">&#xFF88;</text>
+        <text x="592" y="120" fill="#0aff60" opacity="0.24">&#xFF7C;</text>
+        <text x="592" y="144" fill="#0aff60" opacity="0.27">0</text>
+        <text x="592" y="168" fill="#0aff60" opacity="0.3">&#xFF7D;</text>
+        <text x="592" y="192" fill="#0aff60" opacity="0.33">&#xFF9D;</text>
+        <text x="592" y="216" fill="#0aff60" opacity="0.35">6</text>
+        <text x="592" y="240" fill="#0aff60" opacity="0.38">4</text>
+        <text x="592" y="264" fill="#0aff60" opacity="0.41">&#xFF90;</text>
+        <text x="592" y="288" fill="#0aff60" opacity="0.44">&#xFF73;</text>
+        <text x="592" y="312" fill="#0aff60" opacity="0.47">&#xFF90;</text>
+        <text x="592" y="336" fill="#0aff60" opacity="0.49">7</text>
+        <text x="592" y="360" fill="#0aff60" opacity="0.52">&#xFF99;</text>
+        <text x="592" y="384" fill="#7dffb0" opacity="0.92">&#xFF6A;</text>
+        <text x="592" y="408" fill="#d9ffe6" opacity="1.0">&#xFF8E;</text>
+    </g>
+    <g>
+      <animateTransform attributeName="transform" type="translate" values="0,-432; 0,540" dur="5.75s" begin="-4.44s" repeatCount="indefinite"></animateTransform>
+        <text x="624" y="0" fill="#0aff60" opacity="0.1">9</text>
+        <text x="624" y="24" fill="#0aff60" opacity="0.13">&#xFF66;</text>
+        <text x="624" y="48" fill="#0aff60" opacity="0.16">3</text>
+        <text x="624" y="72" fill="#0aff60" opacity="0.18">&#xFF7E;</text>
+        <text x="624" y="96" fill="#0aff60" opacity="0.21">7</text>
+        <text x="624" y="120" fill="#0aff60" opacity="0.24">&#xFF6C;</text>
+        <text x="624" y="144" fill="#0aff60" opacity="0.27">&#xFF76;</text>
+        <text x="624" y="168" fill="#0aff60" opacity="0.3">0</text>
+        <text x="624" y="192" fill="#0aff60" opacity="0.33">6</text>
+        <text x="624" y="216" fill="#0aff60" opacity="0.35">&#xFF84;</text>
+        <text x="624" y="240" fill="#0aff60" opacity="0.38">&#xFF8D;</text>
+        <text x="624" y="264" fill="#0aff60" opacity="0.41">&#xFF9A;<animate attributeName="opacity" values="0.41;0.06;0.41" dur="3.38s" repeatCount="indefinite"></animate></text>
+        <text x="624" y="288" fill="#0aff60" opacity="0.44">&#xFF74;</text>
+        <text x="624" y="312" fill="#0aff60" opacity="0.47">&#xFF75;</text>
+        <text x="624" y="336" fill="#0aff60" opacity="0.49">&#xFF79;</text>
+        <text x="624" y="360" fill="#0aff60" opacity="0.52">&#xFF8B;</text>
+        <text x="624" y="384" fill="#7dffb0" opacity="0.92">&#xFF88;</text>
+        <text x="624" y="408" fill="#d9ffe6" opacity="1.0">5</text>
+    </g>
+    <g>
+      <animateTransform attributeName="transform" type="translate" values="0,-432; 0,540" dur="6.58s" begin="-3.63s" repeatCount="indefinite"></animateTransform>
+        <text x="656" y="0" fill="#0aff60" opacity="0.1">&#xFF97;</text>
+        <text x="656" y="24" fill="#0aff60" opacity="0.13">9</text>
+        <text x="656" y="48" fill="#0aff60" opacity="0.16">&#xFF77;</text>
+        <text x="656" y="72" fill="#0aff60" opacity="0.18">&#xFF89;</text>
+        <text x="656" y="96" fill="#0aff60" opacity="0.21">&#xFF9B;</text>
+        <text x="656" y="120" fill="#0aff60" opacity="0.24">8</text>
+        <text x="656" y="144" fill="#0aff60" opacity="0.27">&#xFF66;</text>
+        <text x="656" y="168" fill="#0aff60" opacity="0.3">&#xFF8C;</text>
+        <text x="656" y="192" fill="#0aff60" opacity="0.33">6</text>
+        <text x="656" y="216" fill="#0aff60" opacity="0.35">1</text>
+        <text x="656" y="240" fill="#0aff60" opacity="0.38">&#xFF92;</text>
+        <text x="656" y="264" fill="#0aff60" opacity="0.41">&#xFF96;</text>
+        <text x="656" y="288" fill="#0aff60" opacity="0.44">&#xFF8F;</text>
+        <text x="656" y="312" fill="#0aff60" opacity="0.47">&#xFF84;</text>
+        <text x="656" y="336" fill="#0aff60" opacity="0.49">&#xFF83;</text>
+        <text x="656" y="360" fill="#0aff60" opacity="0.52">&#xFF9A;<animate attributeName="opacity" values="0.52;0.08;0.52" dur="2.84s" repeatCount="indefinite"></animate></text>
+        <text x="656" y="384" fill="#7dffb0" opacity="0.92">&#xFF96;</text>
+        <text x="656" y="408" fill="#d9ffe6" opacity="1.0">&#xFF79;</text>
+    </g>
+    <g>
+      <animateTransform attributeName="transform" type="translate" values="0,-432; 0,540" dur="5.24s" begin="-2.63s" repeatCount="indefinite"></animateTransform>
+        <text x="688" y="0" fill="#0aff60" opacity="0.1">&#xFF90;</text>
+        <text x="688" y="24" fill="#0aff60" opacity="0.13">0<animate attributeName="opacity" values="0.13;0.02;0.13" dur="3.2s" repeatCount="indefinite"></animate></text>
+        <text x="688" y="48" fill="#0aff60" opacity="0.16">&#xFF67;</text>
+        <text x="688" y="72" fill="#0aff60" opacity="0.18">&#xFF9A;</text>
+        <text x="688" y="96" fill="#0aff60" opacity="0.21">&#xFF79;<animate attributeName="opacity" values="0.21;0.03;0.21" dur="2.92s" repeatCount="indefinite"></animate></text>
+        <text x="688" y="120" fill="#0aff60" opacity="0.24">&#xFF87;</text>
+        <text x="688" y="144" fill="#0aff60" opacity="0.27">&#xFF98;</text>
+        <text x="688" y="168" fill="#0aff60" opacity="0.3">&#xFF90;</text>
+        <text x="688" y="192" fill="#0aff60" opacity="0.33">&#xFF96;</text>
+        <text x="688" y="216" fill="#0aff60" opacity="0.35">6</text>
+        <text x="688" y="240" fill="#0aff60" opacity="0.38">&#xFF6A;</text>
+        <text x="688" y="264" fill="#0aff60" opacity="0.41">&#xFF84;</text>
+        <text x="688" y="288" fill="#0aff60" opacity="0.44">&#xFF8A;</text>
+        <text x="688" y="312" fill="#0aff60" opacity="0.47">&#xFF71;</text>
+        <text x="688" y="336" fill="#0aff60" opacity="0.49">&#xFF72;</text>
+        <text x="688" y="360" fill="#0aff60" opacity="0.52">&#xFF72;</text>
+        <text x="688" y="384" fill="#7dffb0" opacity="0.92">&#xFF8C;</text>
+        <text x="688" y="408" fill="#d9ffe6" opacity="1.0">&#xFF6B;</text>
+    </g>
+    <g>
+      <animateTransform attributeName="transform" type="translate" values="0,-432; 0,540" dur="5.36s" begin="-1.92s" repeatCount="indefinite"></animateTransform>
+        <text x="720" y="0" fill="#0aff60" opacity="0.1">&#xFF9D;</text>
+        <text x="720" y="24" fill="#0aff60" opacity="0.13">&#xFF9A;</text>
+        <text x="720" y="48" fill="#0aff60" opacity="0.16">&#xFF7D;</text>
+        <text x="720" y="72" fill="#0aff60" opacity="0.18">&#xFF70;</text>
+        <text x="720" y="96" fill="#0aff60" opacity="0.21">&#xFF96;</text>
+        <text x="720" y="120" fill="#0aff60" opacity="0.24">&#xFF84;</text>
+        <text x="720" y="144" fill="#0aff60" opacity="0.27">&#xFF78;</text>
+        <text x="720" y="168" fill="#0aff60" opacity="0.3">&#xFF86;</text>
+        <text x="720" y="192" fill="#0aff60" opacity="0.33">&#xFF67;</text>
+        <text x="720" y="216" fill="#0aff60" opacity="0.35">3</text>
+        <text x="720" y="240" fill="#0aff60" opacity="0.38">&#xFF7A;<animate attributeName="opacity" values="0.38;0.06;0.38" dur="3.28s" repeatCount="indefinite"></animate></text>
+        <text x="720" y="264" fill="#0aff60" opacity="0.41">&#xFF8C;</text>
+        <text x="720" y="288" fill="#0aff60" opacity="0.44">&#xFF9C;</text>
+        <text x="720" y="312" fill="#0aff60" opacity="0.47">2</text>
+        <text x="720" y="336" fill="#0aff60" opacity="0.49">&#xFF7F;</text>
+        <text x="720" y="360" fill="#0aff60" opacity="0.52">5<animate attributeName="opacity" values="0.52;0.08;0.52" dur="2.04s" repeatCount="indefinite"></animate></text>
+        <text x="720" y="384" fill="#7dffb0" opacity="0.92">&#xFF93;</text>
+        <text x="720" y="408" fill="#d9ffe6" opacity="1.0">&#xFF8B;</text>
+    </g>
+    <g>
+      <animateTransform attributeName="transform" type="translate" values="0,-432; 0,540" dur="10.4s" begin="-4.12s" repeatCount="indefinite"></animateTransform>
+        <text x="752" y="0" fill="#0aff60" opacity="0.1">&#xFF67;</text>
+        <text x="752" y="24" fill="#0aff60" opacity="0.13">&#xFF6C;</text>
+        <text x="752" y="48" fill="#0aff60" opacity="0.16">7</text>
+        <text x="752" y="72" fill="#0aff60" opacity="0.18">&#xFF8A;</text>
+        <text x="752" y="96" fill="#0aff60" opacity="0.21">&#xFF83;</text>
+        <text x="752" y="120" fill="#0aff60" opacity="0.24">&#xFF93;</text>
+        <text x="752" y="144" fill="#0aff60" opacity="0.27">&#xFF7E;</text>
+        <text x="752" y="168" fill="#0aff60" opacity="0.3">&#xFF77;</text>
+        <text x="752" y="192" fill="#0aff60" opacity="0.33">&#xFF6B;</text>
+        <text x="752" y="216" fill="#0aff60" opacity="0.35">0<animate attributeName="opacity" values="0.35;0.05;0.35" dur="2.0s" repeatCount="indefinite"></animate></text>
+        <text x="752" y="240" fill="#0aff60" opacity="0.38">&#xFF76;<animate attributeName="opacity" values="0.38;0.06;0.38" dur="1.85s" repeatCount="indefinite"></animate></text>
+        <text x="752" y="264" fill="#0aff60" opacity="0.41">&#xFF9B;</text>
+        <text x="752" y="288" fill="#0aff60" opacity="0.44">&#xFF76;</text>
+        <text x="752" y="312" fill="#0aff60" opacity="0.47">&#xFF94;</text>
+        <text x="752" y="336" fill="#0aff60" opacity="0.49">&#xFF88;</text>
+        <text x="752" y="360" fill="#0aff60" opacity="0.52">&#xFF86;</text>
+        <text x="752" y="384" fill="#7dffb0" opacity="0.92">5</text>
+        <text x="752" y="408" fill="#d9ffe6" opacity="1.0">&#xFF8B;</text>
+    </g>
+    <g>
+      <animateTransform attributeName="transform" type="translate" values="0,-432; 0,540" dur="7.2s" begin="-0.83s" repeatCount="indefinite"></animateTransform>
+        <text x="784" y="0" fill="#0aff60" opacity="0.1">&#xFF6F;</text>
+        <text x="784" y="24" fill="#0aff60" opacity="0.13">&#xFF82;</text>
+        <text x="784" y="48" fill="#0aff60" opacity="0.16">&#xFF98;</text>
+        <text x="784" y="72" fill="#0aff60" opacity="0.18">&#xFF94;<animate attributeName="opacity" values="0.18;0.03;0.18" dur="2.07s" repeatCount="indefinite"></animate></text>
+        <text x="784" y="96" fill="#0aff60" opacity="0.21">&#xFF87;</text>
+        <text x="784" y="120" fill="#0aff60" opacity="0.24">2</text>
+        <text x="784" y="144" fill="#0aff60" opacity="0.27">&#xFF87;</text>
+        <text x="784" y="168" fill="#0aff60" opacity="0.3">&#xFF95;<animate attributeName="opacity" values="0.3;0.04;0.3" dur="1.71s" repeatCount="indefinite"></animate></text>
+        <text x="784" y="192" fill="#0aff60" opacity="0.33">&#xFF69;</text>
+        <text x="784" y="216" fill="#0aff60" opacity="0.35">&#xFF8F;</text>
+        <text x="784" y="240" fill="#0aff60" opacity="0.38">&#xFF82;</text>
+        <text x="784" y="264" fill="#0aff60" opacity="0.41">3</text>
+        <text x="784" y="288" fill="#0aff60" opacity="0.44">&#xFF8C;</text>
+        <text x="784" y="312" fill="#0aff60" opacity="0.47">&#xFF74;</text>
+        <text x="784" y="336" fill="#0aff60" opacity="0.49">&#xFF6A;</text>
+        <text x="784" y="360" fill="#0aff60" opacity="0.52">7<animate attributeName="opacity" values="0.52;0.08;0.52" dur="1.72s" repeatCount="indefinite"></animate></text>
+        <text x="784" y="384" fill="#7dffb0" opacity="0.92">&#xFF77;</text>
+        <text x="784" y="408" fill="#d9ffe6" opacity="1.0">&#xFF95;</text>
+    </g>
+    <g>
+      <animateTransform attributeName="transform" type="translate" values="0,-432; 0,540" dur="9.83s" begin="-9.3s" repeatCount="indefinite"></animateTransform>
+        <text x="816" y="0" fill="#0aff60" opacity="0.1">&#xFF9B;</text>
+        <text x="816" y="24" fill="#0aff60" opacity="0.13">&#xFF79;</text>
+        <text x="816" y="48" fill="#0aff60" opacity="0.16">&#xFF72;</text>
+        <text x="816" y="72" fill="#0aff60" opacity="0.18">&#xFF9A;</text>
+        <text x="816" y="96" fill="#0aff60" opacity="0.21">&#xFF89;<animate attributeName="opacity" values="0.21;0.03;0.21" dur="2.02s" repeatCount="indefinite"></animate></text>
+        <text x="816" y="120" fill="#0aff60" opacity="0.24">0</text>
+        <text x="816" y="144" fill="#0aff60" opacity="0.27">&#xFF84;</text>
+        <text x="816" y="168" fill="#0aff60" opacity="0.3">&#xFF72;</text>
+        <text x="816" y="192" fill="#0aff60" opacity="0.33">&#xFF95;</text>
+        <text x="816" y="216" fill="#0aff60" opacity="0.35">&#xFF93;<animate attributeName="opacity" values="0.35;0.05;0.35" dur="1.81s" repeatCount="indefinite"></animate></text>
+        <text x="816" y="240" fill="#0aff60" opacity="0.38">&#xFF75;</text>
+        <text x="816" y="264" fill="#0aff60" opacity="0.41">2<animate attributeName="opacity" values="0.41;0.06;0.41" dur="1.67s" repeatCount="indefinite"></animate></text>
+        <text x="816" y="288" fill="#0aff60" opacity="0.44">&#xFF68;<animate attributeName="opacity" values="0.44;0.07;0.44" dur="1.93s" repeatCount="indefinite"></animate></text>
+        <text x="816" y="312" fill="#0aff60" opacity="0.47">&#xFF76;</text>
+        <text x="816" y="336" fill="#0aff60" opacity="0.49">&#xFF80;<animate attributeName="opacity" values="0.49;0.07;0.49" dur="2.88s" repeatCount="indefinite"></animate></text>
+        <text x="816" y="360" fill="#0aff60" opacity="0.52">&#xFF80;</text>
+        <text x="816" y="384" fill="#7dffb0" opacity="0.92">&#xFF83;</text>
+        <text x="816" y="408" fill="#d9ffe6" opacity="1.0">&#xFF78;</text>
+    </g>
+    <g>
+      <animateTransform attributeName="transform" type="translate" values="0,-432; 0,540" dur="8.87s" begin="-2.46s" repeatCount="indefinite"></animateTransform>
+        <text x="848" y="0" fill="#0aff60" opacity="0.1">&#xFF78;</text>
+        <text x="848" y="24" fill="#0aff60" opacity="0.13">&#xFF86;</text>
+        <text x="848" y="48" fill="#0aff60" opacity="0.16">&#xFF74;</text>
+        <text x="848" y="72" fill="#0aff60" opacity="0.18">&#xFF69;</text>
+        <text x="848" y="96" fill="#0aff60" opacity="0.21">&#xFF93;</text>
+        <text x="848" y="120" fill="#0aff60" opacity="0.24">&#xFF84;</text>
+        <text x="848" y="144" fill="#0aff60" opacity="0.27">&#xFF68;</text>
+        <text x="848" y="168" fill="#0aff60" opacity="0.3">&#xFF6C;</text>
+        <text x="848" y="192" fill="#0aff60" opacity="0.33">&#xFF9B;</text>
+        <text x="848" y="216" fill="#0aff60" opacity="0.35">&#xFF6E;</text>
+        <text x="848" y="240" fill="#0aff60" opacity="0.38">&#xFF94;</text>
+        <text x="848" y="264" fill="#0aff60" opacity="0.41">&#xFF73;</text>
+        <text x="848" y="288" fill="#0aff60" opacity="0.44">&#xFF82;</text>
+        <text x="848" y="312" fill="#0aff60" opacity="0.47">&#xFF6B;</text>
+        <text x="848" y="336" fill="#0aff60" opacity="0.49">&#xFF8C;</text>
+        <text x="848" y="360" fill="#0aff60" opacity="0.52">&#xFF69;<animate attributeName="opacity" values="0.52;0.08;0.52" dur="2.25s" repeatCount="indefinite"></animate></text>
+        <text x="848" y="384" fill="#7dffb0" opacity="0.92">&#xFF99;</text>
+        <text x="848" y="408" fill="#d9ffe6" opacity="1.0">&#xFF73;</text>
+    </g>
+    <g>
+      <animateTransform attributeName="transform" type="translate" values="0,-432; 0,540" dur="10.91s" begin="-0.8s" repeatCount="indefinite"></animateTransform>
+        <text x="880" y="0" fill="#0aff60" opacity="0.1">&#xFF70;</text>
+        <text x="880" y="24" fill="#0aff60" opacity="0.13">&#xFF78;<animate attributeName="opacity" values="0.13;0.02;0.13" dur="1.81s" repeatCount="indefinite"></animate></text>
+        <text x="880" y="48" fill="#0aff60" opacity="0.16">&#xFF8F;</text>
+        <text x="880" y="72" fill="#0aff60" opacity="0.18">&#xFF8B;</text>
+        <text x="880" y="96" fill="#0aff60" opacity="0.21">&#xFF9D;<animate attributeName="opacity" values="0.21;0.03;0.21" dur="2.74s" repeatCount="indefinite"></animate></text>
+        <text x="880" y="120" fill="#0aff60" opacity="0.24">&#xFF81;</text>
+        <text x="880" y="144" fill="#0aff60" opacity="0.27">&#xFF83;</text>
+        <text x="880" y="168" fill="#0aff60" opacity="0.3">2</text>
+        <text x="880" y="192" fill="#0aff60" opacity="0.33">&#xFF72;</text>
+        <text x="880" y="216" fill="#0aff60" opacity="0.35">&#xFF8E;</text>
+        <text x="880" y="240" fill="#0aff60" opacity="0.38">&#xFF95;</text>
+        <text x="880" y="264" fill="#0aff60" opacity="0.41">4<animate attributeName="opacity" values="0.41;0.06;0.41" dur="3.03s" repeatCount="indefinite"></animate></text>
+        <text x="880" y="288" fill="#0aff60" opacity="0.44">&#xFF71;</text>
+        <text x="880" y="312" fill="#0aff60" opacity="0.47">&#xFF95;</text>
+        <text x="880" y="336" fill="#0aff60" opacity="0.49">&#xFF6D;</text>
+        <text x="880" y="360" fill="#0aff60" opacity="0.52">&#xFF90;</text>
+        <text x="880" y="384" fill="#7dffb0" opacity="0.92">&#xFF9A;</text>
+        <text x="880" y="408" fill="#d9ffe6" opacity="1.0">&#xFF9C;</text>
+    </g>
+    <g>
+      <animateTransform attributeName="transform" type="translate" values="0,-432; 0,540" dur="9.69s" begin="-9.38s" repeatCount="indefinite"></animateTransform>
+        <text x="912" y="0" fill="#0aff60" opacity="0.1">&#xFF8D;</text>
+        <text x="912" y="24" fill="#0aff60" opacity="0.13">8</text>
+        <text x="912" y="48" fill="#0aff60" opacity="0.16">5</text>
+        <text x="912" y="72" fill="#0aff60" opacity="0.18">&#xFF73;</text>
+        <text x="912" y="96" fill="#0aff60" opacity="0.21">&#xFF95;<animate attributeName="opacity" values="0.21;0.03;0.21" dur="1.81s" repeatCount="indefinite"></animate></text>
+        <text x="912" y="120" fill="#0aff60" opacity="0.24">&#xFF82;</text>
+        <text x="912" y="144" fill="#0aff60" opacity="0.27">&#xFF69;</text>
+        <text x="912" y="168" fill="#0aff60" opacity="0.3">&#xFF88;<animate attributeName="opacity" values="0.3;0.04;0.3" dur="1.8s" repeatCount="indefinite"></animate></text>
+        <text x="912" y="192" fill="#0aff60" opacity="0.33">&#xFF8D;</text>
+        <text x="912" y="216" fill="#0aff60" opacity="0.35">&#xFF92;<animate attributeName="opacity" values="0.35;0.05;0.35" dur="3.11s" repeatCount="indefinite"></animate></text>
+        <text x="912" y="240" fill="#0aff60" opacity="0.38">&#xFF99;<animate attributeName="opacity" values="0.38;0.06;0.38" dur="2.83s" repeatCount="indefinite"></animate></text>
+        <text x="912" y="264" fill="#0aff60" opacity="0.41">&#xFF69;<animate attributeName="opacity" values="0.41;0.06;0.41" dur="2.37s" repeatCount="indefinite"></animate></text>
+        <text x="912" y="288" fill="#0aff60" opacity="0.44">&#xFF96;</text>
+        <text x="912" y="312" fill="#0aff60" opacity="0.47">&#xFF91;</text>
+        <text x="912" y="336" fill="#0aff60" opacity="0.49">&#xFF8D;</text>
+        <text x="912" y="360" fill="#0aff60" opacity="0.52">&#xFF70;</text>
+        <text x="912" y="384" fill="#7dffb0" opacity="0.92">&#xFF79;</text>
+        <text x="912" y="408" fill="#d9ffe6" opacity="1.0">&#xFF6C;</text>
+    </g>
+    <g>
+      <animateTransform attributeName="transform" type="translate" values="0,-432; 0,540" dur="6.77s" begin="-4.48s" repeatCount="indefinite"></animateTransform>
+        <text x="944" y="0" fill="#0aff60" opacity="0.1">6</text>
+        <text x="944" y="24" fill="#0aff60" opacity="0.13">&#xFF9B;</text>
+        <text x="944" y="48" fill="#0aff60" opacity="0.16">9<animate attributeName="opacity" values="0.16;0.02;0.16" dur="2.15s" repeatCount="indefinite"></animate></text>
+        <text x="944" y="72" fill="#0aff60" opacity="0.18">&#xFF8A;</text>
+        <text x="944" y="96" fill="#0aff60" opacity="0.21">6</text>
+        <text x="944" y="120" fill="#0aff60" opacity="0.24">&#xFF8D;<animate attributeName="opacity" values="0.24;0.04;0.24" dur="2.07s" repeatCount="indefinite"></animate></text>
+        <text x="944" y="144" fill="#0aff60" opacity="0.27">&#xFF6D;<animate attributeName="opacity" values="0.27;0.04;0.27" dur="1.86s" repeatCount="indefinite"></animate></text>
+        <text x="944" y="168" fill="#0aff60" opacity="0.3">&#xFF81;</text>
+        <text x="944" y="192" fill="#0aff60" opacity="0.33">&#xFF86;</text>
+        <text x="944" y="216" fill="#0aff60" opacity="0.35">&#xFF75;<animate attributeName="opacity" values="0.35;0.05;0.35" dur="2.84s" repeatCount="indefinite"></animate></text>
+        <text x="944" y="240" fill="#0aff60" opacity="0.38">&#xFF7C;</text>
+        <text x="944" y="264" fill="#0aff60" opacity="0.41">&#xFF83;</text>
+        <text x="944" y="288" fill="#0aff60" opacity="0.44">&#xFF93;<animate attributeName="opacity" values="0.44;0.07;0.44" dur="3.1s" repeatCount="indefinite"></animate></text>
+        <text x="944" y="312" fill="#0aff60" opacity="0.47">&#xFF6B;</text>
+        <text x="944" y="336" fill="#0aff60" opacity="0.49">2</text>
+        <text x="944" y="360" fill="#0aff60" opacity="0.52">&#xFF8E;</text>
+        <text x="944" y="384" fill="#7dffb0" opacity="0.92">&#xFF99;</text>
+        <text x="944" y="408" fill="#d9ffe6" opacity="1.0">&#xFF9B;</text>
+    </g>
+    <g>
+      <animateTransform attributeName="transform" type="translate" values="0,-432; 0,540" dur="7.63s" begin="-7.37s" repeatCount="indefinite"></animateTransform>
+        <text x="976" y="0" fill="#0aff60" opacity="0.1">&#xFF7B;</text>
+        <text x="976" y="24" fill="#0aff60" opacity="0.13">2</text>
+        <text x="976" y="48" fill="#0aff60" opacity="0.16">&#xFF94;<animate attributeName="opacity" values="0.16;0.02;0.16" dur="3.06s" repeatCount="indefinite"></animate></text>
+        <text x="976" y="72" fill="#0aff60" opacity="0.18">&#xFF85;</text>
+        <text x="976" y="96" fill="#0aff60" opacity="0.21">&#xFF99;</text>
+        <text x="976" y="120" fill="#0aff60" opacity="0.24">&#xFF98;</text>
+        <text x="976" y="144" fill="#0aff60" opacity="0.27">&#xFF91;</text>
+        <text x="976" y="168" fill="#0aff60" opacity="0.3">&#xFF7B;<animate attributeName="opacity" values="0.3;0.04;0.3" dur="2.59s" repeatCount="indefinite"></animate></text>
+        <text x="976" y="192" fill="#0aff60" opacity="0.33">9</text>
+        <text x="976" y="216" fill="#0aff60" opacity="0.35">&#xFF92;</text>
+        <text x="976" y="240" fill="#0aff60" opacity="0.38">&#xFF78;</text>
+        <text x="976" y="264" fill="#0aff60" opacity="0.41">&#xFF78;</text>
+        <text x="976" y="288" fill="#0aff60" opacity="0.44">&#xFF7C;</text>
+        <text x="976" y="312" fill="#0aff60" opacity="0.47">&#xFF6F;</text>
+        <text x="976" y="336" fill="#0aff60" opacity="0.49">7</text>
+        <text x="976" y="360" fill="#0aff60" opacity="0.52">1</text>
+        <text x="976" y="384" fill="#7dffb0" opacity="0.92">&#xFF8F;</text>
+        <text x="976" y="408" fill="#d9ffe6" opacity="1.0">&#xFF8E;</text>
+    </g>
+    <g>
+      <animateTransform attributeName="transform" type="translate" values="0,-432; 0,540" dur="5.44s" begin="-2.41s" repeatCount="indefinite"></animateTransform>
+        <text x="1008" y="0" fill="#0aff60" opacity="0.1">&#xFF8C;</text>
+        <text x="1008" y="24" fill="#0aff60" opacity="0.13">&#xFF6D;</text>
+        <text x="1008" y="48" fill="#0aff60" opacity="0.16">&#xFF6F;</text>
+        <text x="1008" y="72" fill="#0aff60" opacity="0.18">1<animate attributeName="opacity" values="0.18;0.03;0.18" dur="2.01s" repeatCount="indefinite"></animate></text>
+        <text x="1008" y="96" fill="#0aff60" opacity="0.21">&#xFF8A;<animate attributeName="opacity" values="0.21;0.03;0.21" dur="3.1s" repeatCount="indefinite"></animate></text>
+        <text x="1008" y="120" fill="#0aff60" opacity="0.24">&#xFF71;</text>
+        <text x="1008" y="144" fill="#0aff60" opacity="0.27">8</text>
+        <text x="1008" y="168" fill="#0aff60" opacity="0.3">&#xFF6B;</text>
+        <text x="1008" y="192" fill="#0aff60" opacity="0.33">&#xFF7E;</text>
+        <text x="1008" y="216" fill="#0aff60" opacity="0.35">4</text>
+        <text x="1008" y="240" fill="#0aff60" opacity="0.38">&#xFF6D;</text>
+        <text x="1008" y="264" fill="#0aff60" opacity="0.41">&#xFF91;</text>
+        <text x="1008" y="288" fill="#0aff60" opacity="0.44">&#xFF70;</text>
+        <text x="1008" y="312" fill="#0aff60" opacity="0.47">&#xFF7C;<animate attributeName="opacity" values="0.47;0.07;0.47" dur="2.76s" repeatCount="indefinite"></animate></text>
+        <text x="1008" y="336" fill="#0aff60" opacity="0.49">0</text>
+        <text x="1008" y="360" fill="#0aff60" opacity="0.52">&#xFF7A;</text>
+        <text x="1008" y="384" fill="#7dffb0" opacity="0.92">&#xFF8A;</text>
+        <text x="1008" y="408" fill="#d9ffe6" opacity="1.0">&#xFF91;</text>
+    </g>
+    <g>
+      <animateTransform attributeName="transform" type="translate" values="0,-432; 0,540" dur="5.34s" begin="-3.37s" repeatCount="indefinite"></animateTransform>
+        <text x="1040" y="0" fill="#0aff60" opacity="0.1">&#xFF90;<animate attributeName="opacity" values="0.1;0.01;0.1" dur="1.41s" repeatCount="indefinite"></animate></text>
+        <text x="1040" y="24" fill="#0aff60" opacity="0.13">&#xFF97;</text>
+        <text x="1040" y="48" fill="#0aff60" opacity="0.16">&#xFF79;</text>
+        <text x="1040" y="72" fill="#0aff60" opacity="0.18">&#xFF78;</text>
+        <text x="1040" y="96" fill="#0aff60" opacity="0.21">&#xFF8D;</text>
+        <text x="1040" y="120" fill="#0aff60" opacity="0.24">&#xFF98;</text>
+        <text x="1040" y="144" fill="#0aff60" opacity="0.27">&#xFF70;</text>
+        <text x="1040" y="168" fill="#0aff60" opacity="0.3">&#xFF96;</text>
+        <text x="1040" y="192" fill="#0aff60" opacity="0.33">&#xFF90;</text>
+        <text x="1040" y="216" fill="#0aff60" opacity="0.35">&#xFF71;</text>
+        <text x="1040" y="240" fill="#0aff60" opacity="0.38">&#xFF9C;</text>
+        <text x="1040" y="264" fill="#0aff60" opacity="0.41">&#xFF68;</text>
+        <text x="1040" y="288" fill="#0aff60" opacity="0.44">&#xFF7D;</text>
+        <text x="1040" y="312" fill="#0aff60" opacity="0.47">&#xFF91;</text>
+        <text x="1040" y="336" fill="#0aff60" opacity="0.49">6</text>
+        <text x="1040" y="360" fill="#0aff60" opacity="0.52">&#xFF77;</text>
+        <text x="1040" y="384" fill="#7dffb0" opacity="0.92">&#xFF8B;</text>
+        <text x="1040" y="408" fill="#d9ffe6" opacity="1.0">&#xFF72;</text>
+    </g>
+    <g>
+      <animateTransform attributeName="transform" type="translate" values="0,-432; 0,540" dur="8.51s" begin="-6.29s" repeatCount="indefinite"></animateTransform>
+        <text x="1072" y="0" fill="#0aff60" opacity="0.1">&#xFF6A;</text>
+        <text x="1072" y="24" fill="#0aff60" opacity="0.13">&#xFF76;</text>
+        <text x="1072" y="48" fill="#0aff60" opacity="0.16">&#xFF79;</text>
+        <text x="1072" y="72" fill="#0aff60" opacity="0.18">&#xFF7B;</text>
+        <text x="1072" y="96" fill="#0aff60" opacity="0.21">&#xFF6B;</text>
+        <text x="1072" y="120" fill="#0aff60" opacity="0.24">&#xFF84;</text>
+        <text x="1072" y="144" fill="#0aff60" opacity="0.27">&#xFF8A;</text>
+        <text x="1072" y="168" fill="#0aff60" opacity="0.3">1</text>
+        <text x="1072" y="192" fill="#0aff60" opacity="0.33">&#xFF84;</text>
+        <text x="1072" y="216" fill="#0aff60" opacity="0.35">4</text>
+        <text x="1072" y="240" fill="#0aff60" opacity="0.38">&#xFF7E;</text>
+        <text x="1072" y="264" fill="#0aff60" opacity="0.41">0</text>
+        <text x="1072" y="288" fill="#0aff60" opacity="0.44">&#xFF8A;</text>
+        <text x="1072" y="312" fill="#0aff60" opacity="0.47">8</text>
+        <text x="1072" y="336" fill="#0aff60" opacity="0.49">&#xFF7A;</text>
+        <text x="1072" y="360" fill="#0aff60" opacity="0.52">&#xFF77;</text>
+        <text x="1072" y="384" fill="#7dffb0" opacity="0.92">&#xFF6C;</text>
+        <text x="1072" y="408" fill="#d9ffe6" opacity="1.0">&#xFF95;</text>
+    </g>
+    <g>
+      <animateTransform attributeName="transform" type="translate" values="0,-432; 0,540" dur="5.67s" begin="-4.8s" repeatCount="indefinite"></animateTransform>
+        <text x="1104" y="0" fill="#0aff60" opacity="0.1">&#xFF75;</text>
+        <text x="1104" y="24" fill="#0aff60" opacity="0.13">&#xFF7A;</text>
+        <text x="1104" y="48" fill="#0aff60" opacity="0.16">9</text>
+        <text x="1104" y="72" fill="#0aff60" opacity="0.18">&#xFF9D;<animate attributeName="opacity" values="0.18;0.03;0.18" dur="3.2s" repeatCount="indefinite"></animate></text>
+        <text x="1104" y="96" fill="#0aff60" opacity="0.21">1</text>
+        <text x="1104" y="120" fill="#0aff60" opacity="0.24">&#xFF69;</text>
+        <text x="1104" y="144" fill="#0aff60" opacity="0.27">&#xFF98;</text>
+        <text x="1104" y="168" fill="#0aff60" opacity="0.3">&#xFF84;</text>
+        <text x="1104" y="192" fill="#0aff60" opacity="0.33">&#xFF70;</text>
+        <text x="1104" y="216" fill="#0aff60" opacity="0.35">&#xFF69;</text>
+        <text x="1104" y="240" fill="#0aff60" opacity="0.38">&#xFF72;</text>
+        <text x="1104" y="264" fill="#0aff60" opacity="0.41">&#xFF90;</text>
+        <text x="1104" y="288" fill="#0aff60" opacity="0.44">&#xFF77;<animate attributeName="opacity" values="0.44;0.07;0.44" dur="3.22s" repeatCount="indefinite"></animate></text>
+        <text x="1104" y="312" fill="#0aff60" opacity="0.47">4</text>
+        <text x="1104" y="336" fill="#0aff60" opacity="0.49">&#xFF77;</text>
+        <text x="1104" y="360" fill="#0aff60" opacity="0.52">4</text>
+        <text x="1104" y="384" fill="#7dffb0" opacity="0.92">&#xFF66;</text>
+        <text x="1104" y="408" fill="#d9ffe6" opacity="1.0">&#xFF68;</text>
+    </g>
+    <g>
+      <animateTransform attributeName="transform" type="translate" values="0,-432; 0,540" dur="10.43s" begin="-5.72s" repeatCount="indefinite"></animateTransform>
+        <text x="1136" y="0" fill="#0aff60" opacity="0.1">&#xFF9C;<animate attributeName="opacity" values="0.1;0.01;0.1" dur="1.83s" repeatCount="indefinite"></animate></text>
+        <text x="1136" y="24" fill="#0aff60" opacity="0.13">&#xFF8C;</text>
+        <text x="1136" y="48" fill="#0aff60" opacity="0.16">&#xFF84;</text>
+        <text x="1136" y="72" fill="#0aff60" opacity="0.18">2<animate attributeName="opacity" values="0.18;0.03;0.18" dur="3.04s" repeatCount="indefinite"></animate></text>
+        <text x="1136" y="96" fill="#0aff60" opacity="0.21">7</text>
+        <text x="1136" y="120" fill="#0aff60" opacity="0.24">&#xFF68;</text>
+        <text x="1136" y="144" fill="#0aff60" opacity="0.27">&#xFF84;</text>
+        <text x="1136" y="168" fill="#0aff60" opacity="0.3">&#xFF8B;</text>
+        <text x="1136" y="192" fill="#0aff60" opacity="0.33">&#xFF93;</text>
+        <text x="1136" y="216" fill="#0aff60" opacity="0.35">&#xFF9B;</text>
+        <text x="1136" y="240" fill="#0aff60" opacity="0.38">&#xFF70;</text>
+        <text x="1136" y="264" fill="#0aff60" opacity="0.41">&#xFF94;<animate attributeName="opacity" values="0.41;0.06;0.41" dur="2.36s" repeatCount="indefinite"></animate></text>
+        <text x="1136" y="288" fill="#0aff60" opacity="0.44">8</text>
+        <text x="1136" y="312" fill="#0aff60" opacity="0.47">8</text>
+        <text x="1136" y="336" fill="#0aff60" opacity="0.49">&#xFF97;</text>
+        <text x="1136" y="360" fill="#0aff60" opacity="0.52">&#xFF6B;</text>
+        <text x="1136" y="384" fill="#7dffb0" opacity="0.92">&#xFF95;</text>
+        <text x="1136" y="408" fill="#d9ffe6" opacity="1.0">&#xFF68;</text>
+    </g>
+    <g>
+      <animateTransform attributeName="transform" type="translate" values="0,-432; 0,540" dur="5.44s" begin="-1.31s" repeatCount="indefinite"></animateTransform>
+        <text x="1168" y="0" fill="#0aff60" opacity="0.1">&#xFF73;</text>
+        <text x="1168" y="24" fill="#0aff60" opacity="0.13">&#xFF90;</text>
+        <text x="1168" y="48" fill="#0aff60" opacity="0.16">&#xFF93;</text>
+        <text x="1168" y="72" fill="#0aff60" opacity="0.18">&#xFF7C;</text>
+        <text x="1168" y="96" fill="#0aff60" opacity="0.21">3</text>
+        <text x="1168" y="120" fill="#0aff60" opacity="0.24">5</text>
+        <text x="1168" y="144" fill="#0aff60" opacity="0.27">&#xFF77;<animate attributeName="opacity" values="0.27;0.04;0.27" dur="2.91s" repeatCount="indefinite"></animate></text>
+        <text x="1168" y="168" fill="#0aff60" opacity="0.3">2<animate attributeName="opacity" values="0.3;0.04;0.3" dur="1.64s" repeatCount="indefinite"></animate></text>
+        <text x="1168" y="192" fill="#0aff60" opacity="0.33">&#xFF7F;</text>
+        <text x="1168" y="216" fill="#0aff60" opacity="0.35">&#xFF8E;</text>
+        <text x="1168" y="240" fill="#0aff60" opacity="0.38">9</text>
+        <text x="1168" y="264" fill="#0aff60" opacity="0.41">4</text>
+        <text x="1168" y="288" fill="#0aff60" opacity="0.44">&#xFF7E;</text>
+        <text x="1168" y="312" fill="#0aff60" opacity="0.47">&#xFF6C;</text>
+        <text x="1168" y="336" fill="#0aff60" opacity="0.49">&#xFF90;</text>
+        <text x="1168" y="360" fill="#0aff60" opacity="0.52">&#xFF95;</text>
+        <text x="1168" y="384" fill="#7dffb0" opacity="0.92">&#xFF99;</text>
+        <text x="1168" y="408" fill="#d9ffe6" opacity="1.0">&#xFF97;</text>
+    </g>
+    <g>
+      <animateTransform attributeName="transform" type="translate" values="0,-432; 0,540" dur="6.21s" begin="-4.3s" repeatCount="indefinite"></animateTransform>
+        <text x="1200" y="0" fill="#0aff60" opacity="0.1">&#xFF95;</text>
+        <text x="1200" y="24" fill="#0aff60" opacity="0.13">&#xFF88;</text>
+        <text x="1200" y="48" fill="#0aff60" opacity="0.16">&#xFF9C;<animate attributeName="opacity" values="0.16;0.02;0.16" dur="2.53s" repeatCount="indefinite"></animate></text>
+        <text x="1200" y="72" fill="#0aff60" opacity="0.18">&#xFF7D;</text>
+        <text x="1200" y="96" fill="#0aff60" opacity="0.21">&#xFF8F;<animate attributeName="opacity" values="0.21;0.03;0.21" dur="1.92s" repeatCount="indefinite"></animate></text>
+        <text x="1200" y="120" fill="#0aff60" opacity="0.24">&#xFF8B;</text>
+        <text x="1200" y="144" fill="#0aff60" opacity="0.27">&#xFF9C;</text>
+        <text x="1200" y="168" fill="#0aff60" opacity="0.3">0</text>
+        <text x="1200" y="192" fill="#0aff60" opacity="0.33">&#xFF6B;</text>
+        <text x="1200" y="216" fill="#0aff60" opacity="0.35">&#xFF93;</text>
+        <text x="1200" y="240" fill="#0aff60" opacity="0.38">&#xFF9D;</text>
+        <text x="1200" y="264" fill="#0aff60" opacity="0.41">&#xFF6D;<animate attributeName="opacity" values="0.41;0.06;0.41" dur="2.6s" repeatCount="indefinite"></animate></text>
+        <text x="1200" y="288" fill="#0aff60" opacity="0.44">&#xFF94;</text>
+        <text x="1200" y="312" fill="#0aff60" opacity="0.47">&#xFF7A;</text>
+        <text x="1200" y="336" fill="#0aff60" opacity="0.49">&#xFF78;</text>
+        <text x="1200" y="360" fill="#0aff60" opacity="0.52">0<animate attributeName="opacity" values="0.52;0.08;0.52" dur="1.35s" repeatCount="indefinite"></animate></text>
+        <text x="1200" y="384" fill="#7dffb0" opacity="0.92">&#xFF94;</text>
+        <text x="1200" y="408" fill="#d9ffe6" opacity="1.0">&#xFF6A;</text>
+    </g>
+    <g>
+      <animateTransform attributeName="transform" type="translate" values="0,-432; 0,540" dur="9.41s" begin="-8.93s" repeatCount="indefinite"></animateTransform>
+        <text x="1232" y="0" fill="#0aff60" opacity="0.1">&#xFF95;</text>
+        <text x="1232" y="24" fill="#0aff60" opacity="0.13">&#xFF6F;</text>
+        <text x="1232" y="48" fill="#0aff60" opacity="0.16">&#xFF94;</text>
+        <text x="1232" y="72" fill="#0aff60" opacity="0.18">&#xFF89;</text>
+        <text x="1232" y="96" fill="#0aff60" opacity="0.21">&#xFF74;<animate attributeName="opacity" values="0.21;0.03;0.21" dur="1.61s" repeatCount="indefinite"></animate></text>
+        <text x="1232" y="120" fill="#0aff60" opacity="0.24">&#xFF97;</text>
+        <text x="1232" y="144" fill="#0aff60" opacity="0.27">&#xFF75;</text>
+        <text x="1232" y="168" fill="#0aff60" opacity="0.3">&#xFF87;</text>
+        <text x="1232" y="192" fill="#0aff60" opacity="0.33">&#xFF81;</text>
+        <text x="1232" y="216" fill="#0aff60" opacity="0.35">&#xFF8A;</text>
+        <text x="1232" y="240" fill="#0aff60" opacity="0.38">6</text>
+        <text x="1232" y="264" fill="#0aff60" opacity="0.41">&#xFF77;</text>
+        <text x="1232" y="288" fill="#0aff60" opacity="0.44">1</text>
+        <text x="1232" y="312" fill="#0aff60" opacity="0.47">0</text>
+        <text x="1232" y="336" fill="#0aff60" opacity="0.49">&#xFF8E;</text>
+        <text x="1232" y="360" fill="#0aff60" opacity="0.52">&#xFF6E;</text>
+        <text x="1232" y="384" fill="#7dffb0" opacity="0.92">&#xFF8B;</text>
+        <text x="1232" y="408" fill="#d9ffe6" opacity="1.0">&#xFF7A;</text>
+    </g>
+    <g>
+      <animateTransform attributeName="transform" type="translate" values="0,-432; 0,540" dur="11.03s" begin="-7.03s" repeatCount="indefinite"></animateTransform>
+        <text x="1264" y="0" fill="#0aff60" opacity="0.1">&#xFF94;</text>
+        <text x="1264" y="24" fill="#0aff60" opacity="0.13">&#xFF75;</text>
+        <text x="1264" y="48" fill="#0aff60" opacity="0.16">&#xFF77;</text>
+        <text x="1264" y="72" fill="#0aff60" opacity="0.18">7<animate attributeName="opacity" values="0.18;0.03;0.18" dur="2.42s" repeatCount="indefinite"></animate></text>
+        <text x="1264" y="96" fill="#0aff60" opacity="0.21">&#xFF95;</text>
+        <text x="1264" y="120" fill="#0aff60" opacity="0.24">&#xFF76;</text>
+        <text x="1264" y="144" fill="#0aff60" opacity="0.27">&#xFF71;<animate attributeName="opacity" values="0.27;0.04;0.27" dur="2.08s" repeatCount="indefinite"></animate></text>
+        <text x="1264" y="168" fill="#0aff60" opacity="0.3">5</text>
+        <text x="1264" y="192" fill="#0aff60" opacity="0.33">&#xFF9A;</text>
+        <text x="1264" y="216" fill="#0aff60" opacity="0.35">&#xFF6F;</text>
+        <text x="1264" y="240" fill="#0aff60" opacity="0.38">&#xFF8E;</text>
+        <text x="1264" y="264" fill="#0aff60" opacity="0.41">1</text>
+        <text x="1264" y="288" fill="#0aff60" opacity="0.44">&#xFF92;</text>
+        <text x="1264" y="312" fill="#0aff60" opacity="0.47">&#xFF7D;</text>
+        <text x="1264" y="336" fill="#0aff60" opacity="0.49">&#xFF76;</text>
+        <text x="1264" y="360" fill="#0aff60" opacity="0.52">&#xFF6D;</text>
+        <text x="1264" y="384" fill="#7dffb0" opacity="0.92">&#xFF79;</text>
+        <text x="1264" y="408" fill="#d9ffe6" opacity="1.0">&#xFF7A;</text>
+    </g>
+    <g>
+      <animateTransform attributeName="transform" type="translate" values="0,-432; 0,540" dur="9.61s" begin="-3.33s" repeatCount="indefinite"></animateTransform>
+        <text x="1296" y="0" fill="#0aff60" opacity="0.1">&#xFF8A;</text>
+        <text x="1296" y="24" fill="#0aff60" opacity="0.13">&#xFF86;</text>
+        <text x="1296" y="48" fill="#0aff60" opacity="0.16">&#xFF89;</text>
+        <text x="1296" y="72" fill="#0aff60" opacity="0.18">&#xFF8C;</text>
+        <text x="1296" y="96" fill="#0aff60" opacity="0.21">&#xFF71;</text>
+        <text x="1296" y="120" fill="#0aff60" opacity="0.24">&#xFF7B;</text>
+        <text x="1296" y="144" fill="#0aff60" opacity="0.27">&#xFF79;</text>
+        <text x="1296" y="168" fill="#0aff60" opacity="0.3">&#xFF91;</text>
+        <text x="1296" y="192" fill="#0aff60" opacity="0.33">&#xFF6B;</text>
+        <text x="1296" y="216" fill="#0aff60" opacity="0.35">&#xFF69;<animate attributeName="opacity" values="0.35;0.05;0.35" dur="3.29s" repeatCount="indefinite"></animate></text>
+        <text x="1296" y="240" fill="#0aff60" opacity="0.38">&#xFF87;</text>
+        <text x="1296" y="264" fill="#0aff60" opacity="0.41">&#xFF9B;</text>
+        <text x="1296" y="288" fill="#0aff60" opacity="0.44">&#xFF69;</text>
+        <text x="1296" y="312" fill="#0aff60" opacity="0.47">&#xFF8B;</text>
+        <text x="1296" y="336" fill="#0aff60" opacity="0.49">&#xFF8C;</text>
+        <text x="1296" y="360" fill="#0aff60" opacity="0.52">&#xFF99;</text>
+        <text x="1296" y="384" fill="#7dffb0" opacity="0.92">&#xFF6F;</text>
+        <text x="1296" y="408" fill="#d9ffe6" opacity="1.0">&#xFF7A;</text>
+    </g>
+    <g>
+      <animateTransform attributeName="transform" type="translate" values="0,-432; 0,540" dur="8.15s" begin="-1.66s" repeatCount="indefinite"></animateTransform>
+        <text x="1328" y="0" fill="#0aff60" opacity="0.1">&#xFF78;</text>
+        <text x="1328" y="24" fill="#0aff60" opacity="0.13">&#xFF8E;</text>
+        <text x="1328" y="48" fill="#0aff60" opacity="0.16">&#xFF92;</text>
+        <text x="1328" y="72" fill="#0aff60" opacity="0.18">&#xFF76;</text>
+        <text x="1328" y="96" fill="#0aff60" opacity="0.21">9</text>
+        <text x="1328" y="120" fill="#0aff60" opacity="0.24">&#xFF8E;</text>
+        <text x="1328" y="144" fill="#0aff60" opacity="0.27">&#xFF75;</text>
+        <text x="1328" y="168" fill="#0aff60" opacity="0.3">&#xFF85;</text>
+        <text x="1328" y="192" fill="#0aff60" opacity="0.33">&#xFF6C;</text>
+        <text x="1328" y="216" fill="#0aff60" opacity="0.35">&#xFF97;</text>
+        <text x="1328" y="240" fill="#0aff60" opacity="0.38">&#xFF9B;</text>
+        <text x="1328" y="264" fill="#0aff60" opacity="0.41">&#xFF7A;</text>
+        <text x="1328" y="288" fill="#0aff60" opacity="0.44">&#xFF8E;</text>
+        <text x="1328" y="312" fill="#0aff60" opacity="0.47">&#xFF7A;</text>
+        <text x="1328" y="336" fill="#0aff60" opacity="0.49">9</text>
+        <text x="1328" y="360" fill="#0aff60" opacity="0.52">&#xFF8D;</text>
+        <text x="1328" y="384" fill="#7dffb0" opacity="0.92">&#xFF71;</text>
+        <text x="1328" y="408" fill="#d9ffe6" opacity="1.0">8</text>
+    </g>
+    <g>
+      <animateTransform attributeName="transform" type="translate" values="0,-432; 0,540" dur="6.56s" begin="-3.83s" repeatCount="indefinite"></animateTransform>
+        <text x="1360" y="0" fill="#0aff60" opacity="0.1">&#xFF6C;<animate attributeName="opacity" values="0.1;0.01;0.1" dur="2.29s" repeatCount="indefinite"></animate></text>
+        <text x="1360" y="24" fill="#0aff60" opacity="0.13">4</text>
+        <text x="1360" y="48" fill="#0aff60" opacity="0.16">&#xFF67;</text>
+        <text x="1360" y="72" fill="#0aff60" opacity="0.18">&#xFF9D;</text>
+        <text x="1360" y="96" fill="#0aff60" opacity="0.21">&#xFF87;</text>
+        <text x="1360" y="120" fill="#0aff60" opacity="0.24">&#xFF99;</text>
+        <text x="1360" y="144" fill="#0aff60" opacity="0.27">&#xFF99;<animate attributeName="opacity" values="0.27;0.04;0.27" dur="2.44s" repeatCount="indefinite"></animate></text>
+        <text x="1360" y="168" fill="#0aff60" opacity="0.3">&#xFF94;</text>
+        <text x="1360" y="192" fill="#0aff60" opacity="0.33">&#xFF6F;</text>
+        <text x="1360" y="216" fill="#0aff60" opacity="0.35">1</text>
+        <text x="1360" y="240" fill="#0aff60" opacity="0.38">&#xFF89;</text>
+        <text x="1360" y="264" fill="#0aff60" opacity="0.41">&#xFF75;</text>
+        <text x="1360" y="288" fill="#0aff60" opacity="0.44">&#xFF72;</text>
+        <text x="1360" y="312" fill="#0aff60" opacity="0.47">&#xFF91;</text>
+        <text x="1360" y="336" fill="#0aff60" opacity="0.49">&#xFF94;</text>
+        <text x="1360" y="360" fill="#0aff60" opacity="0.52">&#xFF7F;</text>
+        <text x="1360" y="384" fill="#7dffb0" opacity="0.92">&#xFF99;</text>
+        <text x="1360" y="408" fill="#d9ffe6" opacity="1.0">&#xFF6B;</text>
+    </g>
+    <g>
+      <animateTransform attributeName="transform" type="translate" values="0,-432; 0,540" dur="9.64s" begin="-7.75s" repeatCount="indefinite"></animateTransform>
+        <text x="1392" y="0" fill="#0aff60" opacity="0.1">2</text>
+        <text x="1392" y="24" fill="#0aff60" opacity="0.13">9</text>
+        <text x="1392" y="48" fill="#0aff60" opacity="0.16">&#xFF8E;</text>
+        <text x="1392" y="72" fill="#0aff60" opacity="0.18">&#xFF8C;</text>
+        <text x="1392" y="96" fill="#0aff60" opacity="0.21">8</text>
+        <text x="1392" y="120" fill="#0aff60" opacity="0.24">6</text>
+        <text x="1392" y="144" fill="#0aff60" opacity="0.27">&#xFF8C;</text>
+        <text x="1392" y="168" fill="#0aff60" opacity="0.3">&#xFF68;</text>
+        <text x="1392" y="192" fill="#0aff60" opacity="0.33">&#xFF74;</text>
+        <text x="1392" y="216" fill="#0aff60" opacity="0.35">&#xFF8D;</text>
+        <text x="1392" y="240" fill="#0aff60" opacity="0.38">&#xFF69;</text>
+        <text x="1392" y="264" fill="#0aff60" opacity="0.41">&#xFF87;</text>
+        <text x="1392" y="288" fill="#0aff60" opacity="0.44">&#xFF83;</text>
+        <text x="1392" y="312" fill="#0aff60" opacity="0.47">5</text>
+        <text x="1392" y="336" fill="#0aff60" opacity="0.49">&#xFF96;</text>
+        <text x="1392" y="360" fill="#0aff60" opacity="0.52">&#xFF85;<animate attributeName="opacity" values="0.52;0.08;0.52" dur="3.29s" repeatCount="indefinite"></animate></text>
+        <text x="1392" y="384" fill="#7dffb0" opacity="0.92">&#xFF74;</text>
+        <text x="1392" y="408" fill="#d9ffe6" opacity="1.0">0</text>
+    </g>
+    <g>
+      <animateTransform attributeName="transform" type="translate" values="0,-432; 0,540" dur="5.98s" begin="-4.13s" repeatCount="indefinite"></animateTransform>
+        <text x="1424" y="0" fill="#0aff60" opacity="0.1">&#xFF9A;</text>
+        <text x="1424" y="24" fill="#0aff60" opacity="0.13">4</text>
+        <text x="1424" y="48" fill="#0aff60" opacity="0.16">&#xFF6D;</text>
+        <text x="1424" y="72" fill="#0aff60" opacity="0.18">&#xFF80;</text>
+        <text x="1424" y="96" fill="#0aff60" opacity="0.21">5</text>
+        <text x="1424" y="120" fill="#0aff60" opacity="0.24">&#xFF8E;</text>
+        <text x="1424" y="144" fill="#0aff60" opacity="0.27">2</text>
+        <text x="1424" y="168" fill="#0aff60" opacity="0.3">&#xFF91;</text>
+        <text x="1424" y="192" fill="#0aff60" opacity="0.33">&#xFF87;</text>
+        <text x="1424" y="216" fill="#0aff60" opacity="0.35">&#xFF7E;</text>
+        <text x="1424" y="240" fill="#0aff60" opacity="0.38">&#xFF89;</text>
+        <text x="1424" y="264" fill="#0aff60" opacity="0.41">&#xFF82;</text>
+        <text x="1424" y="288" fill="#0aff60" opacity="0.44">&#xFF8C;</text>
+        <text x="1424" y="312" fill="#0aff60" opacity="0.47">&#xFF80;</text>
+        <text x="1424" y="336" fill="#0aff60" opacity="0.49">6</text>
+        <text x="1424" y="360" fill="#0aff60" opacity="0.52">&#xFF92;</text>
+        <text x="1424" y="384" fill="#7dffb0" opacity="0.92">&#xFF89;</text>
+        <text x="1424" y="408" fill="#d9ffe6" opacity="1.0">&#xFF96;</text>
+    </g>
+    <g>
+      <animateTransform attributeName="transform" type="translate" values="0,-432; 0,540" dur="7.56s" begin="-2.61s" repeatCount="indefinite"></animateTransform>
+        <text x="1456" y="0" fill="#0aff60" opacity="0.1">&#xFF78;</text>
+        <text x="1456" y="24" fill="#0aff60" opacity="0.13">&#xFF8A;</text>
+        <text x="1456" y="48" fill="#0aff60" opacity="0.16">&#xFF70;</text>
+        <text x="1456" y="72" fill="#0aff60" opacity="0.18">0</text>
+        <text x="1456" y="96" fill="#0aff60" opacity="0.21">5</text>
+        <text x="1456" y="120" fill="#0aff60" opacity="0.24">&#xFF88;</text>
+        <text x="1456" y="144" fill="#0aff60" opacity="0.27">&#xFF88;</text>
+        <text x="1456" y="168" fill="#0aff60" opacity="0.3">&#xFF84;</text>
+        <text x="1456" y="192" fill="#0aff60" opacity="0.33">&#xFF82;</text>
+        <text x="1456" y="216" fill="#0aff60" opacity="0.35">&#xFF6C;<animate attributeName="opacity" values="0.35;0.05;0.35" dur="1.93s" repeatCount="indefinite"></animate></text>
+        <text x="1456" y="240" fill="#0aff60" opacity="0.38">4<animate attributeName="opacity" values="0.38;0.06;0.38" dur="2.9s" repeatCount="indefinite"></animate></text>
+        <text x="1456" y="264" fill="#0aff60" opacity="0.41">&#xFF66;</text>
+        <text x="1456" y="288" fill="#0aff60" opacity="0.44">&#xFF7A;</text>
+        <text x="1456" y="312" fill="#0aff60" opacity="0.47">4</text>
+        <text x="1456" y="336" fill="#0aff60" opacity="0.49">&#xFF7F;</text>
+        <text x="1456" y="360" fill="#0aff60" opacity="0.52">&#xFF8A;</text>
+        <text x="1456" y="384" fill="#7dffb0" opacity="0.92">&#xFF6D;</text>
+        <text x="1456" y="408" fill="#d9ffe6" opacity="1.0">&#xFF71;</text>
+    </g>
+    <g>
+      <animateTransform attributeName="transform" type="translate" values="0,-432; 0,540" dur="6.51s" begin="-4.81s" repeatCount="indefinite"></animateTransform>
+        <text x="1488" y="0" fill="#0aff60" opacity="0.1">&#xFF6A;</text>
+        <text x="1488" y="24" fill="#0aff60" opacity="0.13">&#xFF7C;</text>
+        <text x="1488" y="48" fill="#0aff60" opacity="0.16">&#xFF7C;</text>
+        <text x="1488" y="72" fill="#0aff60" opacity="0.18">&#xFF6A;</text>
+        <text x="1488" y="96" fill="#0aff60" opacity="0.21">&#xFF98;</text>
+        <text x="1488" y="120" fill="#0aff60" opacity="0.24">&#xFF7D;</text>
+        <text x="1488" y="144" fill="#0aff60" opacity="0.27">&#xFF8B;</text>
+        <text x="1488" y="168" fill="#0aff60" opacity="0.3">&#xFF67;</text>
+        <text x="1488" y="192" fill="#0aff60" opacity="0.33">&#xFF73;</text>
+        <text x="1488" y="216" fill="#0aff60" opacity="0.35">&#xFF90;</text>
+        <text x="1488" y="240" fill="#0aff60" opacity="0.38">7</text>
+        <text x="1488" y="264" fill="#0aff60" opacity="0.41">&#xFF77;</text>
+        <text x="1488" y="288" fill="#0aff60" opacity="0.44">3</text>
+        <text x="1488" y="312" fill="#0aff60" opacity="0.47">&#xFF74;</text>
+        <text x="1488" y="336" fill="#0aff60" opacity="0.49">2</text>
+        <text x="1488" y="360" fill="#0aff60" opacity="0.52">&#xFF7D;<animate attributeName="opacity" values="0.52;0.08;0.52" dur="1.94s" repeatCount="indefinite"></animate></text>
+        <text x="1488" y="384" fill="#7dffb0" opacity="0.92">&#xFF8B;</text>
+        <text x="1488" y="408" fill="#d9ffe6" opacity="1.0">&#xFF7E;</text>
+    </g>
+    <g>
+      <animateTransform attributeName="transform" type="translate" values="0,-432; 0,540" dur="10.56s" begin="-9.47s" repeatCount="indefinite"></animateTransform>
+        <text x="1520" y="0" fill="#0aff60" opacity="0.1">&#xFF9C;</text>
+        <text x="1520" y="24" fill="#0aff60" opacity="0.13">&#xFF71;</text>
+        <text x="1520" y="48" fill="#0aff60" opacity="0.16">&#xFF72;</text>
+        <text x="1520" y="72" fill="#0aff60" opacity="0.18">&#xFF77;</text>
+        <text x="1520" y="96" fill="#0aff60" opacity="0.21">&#xFF85;<animate attributeName="opacity" values="0.21;0.03;0.21" dur="2.04s" repeatCount="indefinite"></animate></text>
+        <text x="1520" y="120" fill="#0aff60" opacity="0.24">1</text>
+        <text x="1520" y="144" fill="#0aff60" opacity="0.27">&#xFF90;</text>
+        <text x="1520" y="168" fill="#0aff60" opacity="0.3">&#xFF67;</text>
+        <text x="1520" y="192" fill="#0aff60" opacity="0.33">&#xFF94;</text>
+        <text x="1520" y="216" fill="#0aff60" opacity="0.35">&#xFF6D;</text>
+        <text x="1520" y="240" fill="#0aff60" opacity="0.38">3</text>
+        <text x="1520" y="264" fill="#0aff60" opacity="0.41">&#xFF99;</text>
+        <text x="1520" y="288" fill="#0aff60" opacity="0.44">&#xFF8D;</text>
+        <text x="1520" y="312" fill="#0aff60" opacity="0.47">&#xFF8B;</text>
+        <text x="1520" y="336" fill="#0aff60" opacity="0.49">&#xFF82;</text>
+        <text x="1520" y="360" fill="#0aff60" opacity="0.52">&#xFF77;</text>
+        <text x="1520" y="384" fill="#7dffb0" opacity="0.92">2</text>
+        <text x="1520" y="408" fill="#d9ffe6" opacity="1.0">&#xFF95;</text>
+    </g>
+    <g>
+      <animateTransform attributeName="transform" type="translate" values="0,-432; 0,540" dur="8.57s" begin="-4.03s" repeatCount="indefinite"></animateTransform>
+        <text x="1552" y="0" fill="#0aff60" opacity="0.1">&#xFF81;</text>
+        <text x="1552" y="24" fill="#0aff60" opacity="0.13">&#xFF70;</text>
+        <text x="1552" y="48" fill="#0aff60" opacity="0.16">&#xFF94;<animate attributeName="opacity" values="0.16;0.02;0.16" dur="2.44s" repeatCount="indefinite"></animate></text>
+        <text x="1552" y="72" fill="#0aff60" opacity="0.18">&#xFF6D;</text>
+        <text x="1552" y="96" fill="#0aff60" opacity="0.21">8</text>
+        <text x="1552" y="120" fill="#0aff60" opacity="0.24">&#xFF79;</text>
+        <text x="1552" y="144" fill="#0aff60" opacity="0.27">0<animate attributeName="opacity" values="0.27;0.04;0.27" dur="1.65s" repeatCount="indefinite"></animate></text>
+        <text x="1552" y="168" fill="#0aff60" opacity="0.3">6<animate attributeName="opacity" values="0.3;0.04;0.3" dur="2.32s" repeatCount="indefinite"></animate></text>
+        <text x="1552" y="192" fill="#0aff60" opacity="0.33">&#xFF6D;</text>
+        <text x="1552" y="216" fill="#0aff60" opacity="0.35">9</text>
+        <text x="1552" y="240" fill="#0aff60" opacity="0.38">&#xFF6D;</text>
+        <text x="1552" y="264" fill="#0aff60" opacity="0.41">&#xFF8D;</text>
+        <text x="1552" y="288" fill="#0aff60" opacity="0.44">&#xFF98;</text>
+        <text x="1552" y="312" fill="#0aff60" opacity="0.47">&#xFF66;</text>
+        <text x="1552" y="336" fill="#0aff60" opacity="0.49">&#xFF6F;<animate attributeName="opacity" values="0.49;0.07;0.49" dur="1.96s" repeatCount="indefinite"></animate></text>
+        <text x="1552" y="360" fill="#0aff60" opacity="0.52">&#xFF6E;</text>
+        <text x="1552" y="384" fill="#7dffb0" opacity="0.92">&#xFF6D;</text>
+        <text x="1552" y="408" fill="#d9ffe6" opacity="1.0">&#xFF6E;</text>
+    </g>
+  </g>
+
+  <rect x="120" y="214" width="1360" height="86" fill="url(#plate)"></rect>
+  <g font-family="'JetBrains Mono','DejaVu Sans Mono',Consolas,monospace" font-size="44" letter-spacing="6" text-anchor="middle" fill="url(#ink)">
+    <text x="800" y="268">Javi Rodriguez. Software Craftmanship<animate attributeName="opacity" values="1;0.72;1" dur="6s" repeatCount="indefinite"></animate></text>
+  </g>
+</svg>
