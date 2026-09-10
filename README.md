@@ -9,7 +9,9 @@
 
 Alumni of [Hive Helsinki](https://www.hive.fi/en/), part of the [42 Network](https://42.fr/en/network-42/) — where I wrote a considerable amount of **C** and got a serious introduction to full-stack web development. After that, I haven't stopped; just check my contribution grid to find out what I'm talking about 😎.
 
-These days I build backends and LLM tooling, keep a soft spot for Unix internals, and spend my curiosity budget on math, algorithms, cryptography and cybersecurity. By day, I work at the movies.
+These days I build backends and LLM tooling, keep a soft spot for Unix internals, and spend my curiosity budget on math, algorithms, cryptography and cybersecurity.
+
+By day, I work at the movies 🎥
 
 [![Read the blog](https://img.shields.io/badge/Read_the_blog-🚀-blue?style=for-the-badge)](https://lifebalance.github.io/) &nbsp;&nbsp; <img src="https://komarev.com/ghpvc/?username=lifeBalance&style=flat-square" alt="Profile views" />
 
