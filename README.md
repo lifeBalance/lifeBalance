@@ -11,9 +11,7 @@ Alumni of [Hive Helsinki](https://www.hive.fi/en/), part of the [42 Network](htt
 
 These days I build backends and LLM tooling, keep a soft spot for Unix internals, and spend my curiosity budget on math, algorithms, cryptography and cybersecurity. By day, I work at the movies.
 
-[Read the blog →](https://lifebalance.github.io/)
-
-![](https://komarev.com/ghpvc/?username=lifeBalance&style=flat-square)
+[![Read the blog](https://img.shields.io/badge/Read_the_blog-🚀-blue?style=for-the-badge)](https://lifebalance.github.io/) &nbsp;&nbsp; <img src="https://komarev.com/ghpvc/?username=lifeBalance&style=flat-square" alt="Profile views" />
 
 ---
 
